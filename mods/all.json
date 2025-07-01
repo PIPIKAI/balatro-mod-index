@@ -1538,7 +1538,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 643,
+    "stars": 644,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2453,7 +2453,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10442064?v=4",
     "description": "Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.",
-    "stars": 50,
+    "stars": 51,
     "repo_id": 762954783,
     "github_repo_url": "https://github.com/adambennett/Balatro-DeckCreator"
   },
