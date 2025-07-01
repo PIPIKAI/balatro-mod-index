@@ -514,7 +514,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10177388?v=4",
     "description": "Balatro texture replacement mod",
-    "stars": 0,
+    "stars": 1,
     "repo_id": 909801493,
     "github_repo_url": "https://github.com/martinkauppinen/colorblind-seals"
   },
@@ -680,7 +680,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10201780?v=4",
     "description": "A Balatro mod made for Vinesauce!",
-    "stars": 67,
+    "stars": 66,
     "repo_id": 808875805,
     "github_repo_url": "https://github.com/BarrierTrio/Cardsauce"
   },
@@ -1298,7 +1298,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "4f863c0",
+    "version": "2ab0192",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An unbalanced cryptid addon for balatro, Built around the madness gameset",
@@ -1538,7 +1538,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 642,
+    "stars": 643,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
