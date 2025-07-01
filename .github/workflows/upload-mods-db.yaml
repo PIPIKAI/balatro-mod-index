@@ -1,0 +1,31 @@
+name: Upload Mods to Database
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'mods/all.json'  # 只有 all.json 更新才触发（可按需修改）
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Upload mods to DB
+        env:
+          API_URL: ${{ secrets.API_URL }}              
+          ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}      
+        run: |
+          python .github/scripts/upload_mods_to_db.py
