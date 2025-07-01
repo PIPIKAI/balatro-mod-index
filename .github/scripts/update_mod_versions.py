@@ -11,6 +11,8 @@ from pathlib import Path
 
 import requests
 
+API_URL = os.environ.get('API_URL')
+ADMIN_TOKEN = os.environ.get('ADMIN_TOKEN')
 # GitHub API rate limits are higher with authentication
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
@@ -291,6 +293,30 @@ if __name__ == "__main__":
                     })
 
                 all_meta.append(new_entry)
+
+                # ✅ 新增：推送到数据库 API
+                if API_URL and ADMIN_TOKEN:
+                    req_data = {
+                        "game_name": "balatro",
+                        "repo_id": new_entry.get("repo_id"),
+                        "name": new_entry.get("name"),
+                        "github_repo_url": new_entry.get("github_repo_url"),
+                        "author": new_entry.get("author"),
+                        "author_avatar_url": new_entry.get("author_avatar_url"),
+                        "description": new_entry.get("description"),
+                        "version": new_entry.get("version"),
+                        "stars": new_entry.get("stars"),
+                    }
+                    try:
+                        resp = requests.post(
+                            f"{API_URL}/api/update_mod",
+                            headers={"Authorization": f"Bearer {ADMIN_TOKEN}"},
+                            json=req_data
+                        )
+                        if resp.status_code != 200:
+                            print(f"⚠️ Failed to update mod in DB: {new_entry['name']} - {resp.status_code}")
+                    except Exception as e:
+                        print(f"❌ Exception updating mod in DB: {new_entry['name']} - {e}")
             except Exception as e:
                 print(f"⚠️ Failed to load {meta_file}: {e}")
 
