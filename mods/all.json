@@ -1,0 +1,2378 @@
+[
+  {
+    "title": "SystemClock",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "Breezebuilder",
+    "repo": "https://github.com/Breezebuilder/SystemClock",
+    "downloadURL": "https://github.com/Breezebuilder/SystemClock/releases/download/v1.7.1/SystemClock-v1.7.1.zip",
+    "automatic-version-check": false,
+    "version": "v1.7.1"
+  },
+  {
+    "title": "Balagay",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "GitNether",
+    "repo": "https://github.com/GitNether/balagay",
+    "downloadURL": "https://github.com/GitNether/balagay/releases/download/v1.0.0/BalaGay.zip",
+    "automatic-version-check": false,
+    "version": "v1.0.0"
+  },
+  {
+    "title": "Snows Mods",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "RattlingSnow353",
+    "repo": "https://github.com/RattlingSnow353/Snow-s-Mods",
+    "downloadURL": "https://github.com/RattlingSnow353/Snow-s-Mods/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "a58e7f3"
+  },
+  {
+    "title": "BalaQuints",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Luuumine",
+    "repo": "https://github.com/Luuumine/BalaQuints",
+    "downloadURL": "https://github.com/Luuumine/BalaQuints/releases/latest/download/BalaQuints.zip",
+    "automatic-version-check": true,
+    "version": "v1.2"
+  },
+  {
+    "title": "NeatoJokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Neato",
+    "repo": "https://github.com/neatoqueen/NeatoJokers",
+    "downloadURL": "https://github.com/neatoqueen/NeatoJokers/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "9bb678b"
+  },
+  {
+    "title": "Bunco",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Quality of Life"
+    ],
+    "author": "Firch",
+    "repo": "https://github.com/jumbocarrot0/Bunco",
+    "downloadURL": "https://github.com/jumbocarrot0/Bunco/archive/refs/tags/5.4.1-JumboFork.zip",
+    "folderName": "Bunco",
+    "version": "5.4.1-JumboFork",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Visibility",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "GunnableScum, InvisibleSides and Monachrome",
+    "repo": "https://github.com/GunnableScum/Visibility",
+    "downloadURL": "https://github.com/GunnableScum/Visibility/releases/latest/download/Visibility.zip",
+    "automatic-version-check": true,
+    "version": "v1.0.1"
+  },
+  {
+    "title": "ColorSplashed",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "TheCodingZombie",
+    "repo": "https://github.com/TheCodingZombie/PMCSBalatro",
+    "downloadURL": "https://github.com/TheCodingZombie/PMCSBalatro/archive/refs/tags/v1.1.zip",
+    "folderName": "ColorSplashed",
+    "version": "v1.1",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Telepurte Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "OneSuchKeeper",
+    "repo": "https://github.com/onesuchkeeper/telepurtedeck",
+    "downloadURL": "https://github.com/onesuchkeeper/telepurtedeck/releases/latest/download/TelepurteCards.zip",
+    "automatic-version-check": true,
+    "version": "v1.0.0"
+  },
+  {
+    "title": "Glowypumpkin Community Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "ButterSpaceship",
+    "repo": "https://github.com/ButterSpaceship/Glowypumpkin-Community-Mod",
+    "downloadURL": "https://github.com/ButterSpaceship/Glowypumpkin-Community-Mod/releases/latest/download/GlowyPumpkin-Custom-Deck.zip",
+    "version": "V4.4",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Challenger Deep",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API",
+      "Technical"
+    ],
+    "author": "Opal",
+    "repo": "https://github.com/OOkayOak/Challenger-Deep",
+    "downloadURL": "https://github.com/OOkayOak/Challenger-Deep/releases/latest/download/ChallengerDeep.zip",
+    "automatic-version-check": true,
+    "version": "v1.4.2"
+  },
+  {
+    "title": "Hunatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "OneSuchKeeper",
+    "repo": "https://github.com/onesuchkeeper/Hunatro",
+    "downloadURL": "https://github.com/onesuchkeeper/hunatro/releases/latest/download/hunatro.zip",
+    "automatic-version-check": true,
+    "version": "v1.1.0"
+  },
+  {
+    "title": "Better Mouse and Gamepad",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Kooluve",
+    "repo": "https://github.com/Kooluve/Better-Mouse-And-Gamepad",
+    "downloadURL": "https://github.com/Kooluve/Better-Mouse-And-Gamepad/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "308c8e9"
+  },
+  {
+    "title": "SoulTarots",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "OppositeWolf770",
+    "repo": "https://github.com/OppositeWolf770/SoulEverything",
+    "downloadURL": "https://github.com/OppositeWolf770/SoulEverything/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "38b5bdc"
+  },
+  {
+    "title": "Textile",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Technical"
+    ],
+    "author": "EnderGoodra",
+    "repo": "https://github.com/EnderGoodra/Textile/",
+    "downloadURL": "https://github.com/EnderGoodra/Textile/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "1a70cc1"
+  },
+  {
+    "title": "Pampa Joker Pack",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "batabata3",
+    "repo": "https://github.com/batabata3/balatro-pampa-joker-pack",
+    "downloadURL": "https://github.com/batabata3/balatro-pampa-joker-pack/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "91c0618"
+  },
+  {
+    "title": "More Fluff",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "notmario",
+    "repo": "https://github.com/notmario/MoreFluff",
+    "downloadURL": "https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "3a0b24b"
+  },
+  {
+    "title": "Cryptid-MoreMarioJokers",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "SMG9000, Denverplays2, MarioFan597",
+    "repo": "https://github.com/smg9000/Cryptid-MoreMarioJokers",
+    "downloadURL": "https://github.com/smg9000/Cryptid-MoreMarioJokers/archive/refs/heads/main.zip",
+    "folderName": "Cryptid-MoreMarioJokers",
+    "version": "64e63c4",
+    "automatic-version-check": true
+  },
+  {
+    "title": "SuperFine!!",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "ENNWAY!",
+    "repo": "https://github.com/energykid/SuperFine",
+    "downloadURL": "https://github.com/energykid/SuperFine/releases/latest/download/SuperFine.zip",
+    "folderName": "SuperFine",
+    "version": "v1.0.5",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Multiplayer",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "Virtualized",
+    "repo": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer",
+    "downloadURL": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
+    "folderName": "Multiplayer",
+    "automatic-version-check": true,
+    "version": "v0.2.10"
+  },
+  {
+    "title": "Boss Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Salpootsy",
+    "repo": "https://github.com/salpootsy/BossJokers",
+    "downloadURL": "https://github.com/salpootsy/BossJokers/releases/latest/download/BossJokers.zip",
+    "folderName": "BossJokers",
+    "version": "0.1.3",
+    "automatic-version-check": true
+  },
+  {
+    "title": "GemSteel Texture",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Newcat07",
+    "repo": "https://github.com/newcat07/GemSteelTexture",
+    "downloadURL": "https://github.com/newcat07/GemSteelTexture/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "134b9d1"
+  },
+  {
+    "title": "Fusion Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker",
+      "API"
+    ],
+    "author": "itayfeder",
+    "repo": "https://github.com/wingedcatgirl/Fusion-Jokers",
+    "downloadURL": "https://github.com/wingedcatgirl/Fusion-Jokers/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "00674b4"
+  },
+  {
+    "title": "D6 Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "GauntletGames-2086",
+    "repo": "https://github.com/GauntletGames-2086/D6-Jokers",
+    "downloadURL": "https://github.com/GauntletGames-2086/D6-Jokers/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "ac2a2ae"
+  },
+  {
+    "title": "Strange Library",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API"
+    ],
+    "author": "DigitalDetective47",
+    "repo": "https://github.com/DigitalDetective47/strange-library",
+    "downloadURL": "https://github.com/DigitalDetective47/strange-library/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "aa9ef89"
+  },
+  {
+    "title": "Azazel's Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Starlet Devil",
+    "repo": "https://github.com/AstrumNativus/AzzysJokers",
+    "downloadURL": "https://github.com/AstrumNativus/AzzysJokers/archive/refs/tags/v2.0.0.zip",
+    "automatic-version-check": true,
+    "version": "v2.0.0"
+  },
+  {
+    "title": "HD Balatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "DDRitter",
+    "repo": "https://github.com/Eremel/HD-Balatro",
+    "downloadURL": "https://github.com/Eremel/HD-Balatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "01a76b7"
+  },
+  {
+    "title": "Colorblind Seals",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Martin Kauppinen",
+    "repo": "https://github.com/martinkauppinen/colorblind-seals",
+    "downloadURL": "https://github.com/martinkauppinen/colorblind-seals/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "3a31b59"
+  },
+  {
+    "title": "Spectrum Framework",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous",
+      "API"
+    ],
+    "author": "wingedcatgirl",
+    "repo": "https://github.com/wingedcatgirl/SpectrumFramework",
+    "downloadURL": "https://github.com/wingedcatgirl/SpectrumFramework/releases/download/v0.8.1/SpectrumFramework-0.8.1.zip",
+    "automatic-version-check": false,
+    "version": "v0.8.1"
+  },
+  {
+    "title": "Redux Arcanum",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "itayfeder, Lyman, jumbocarrot0",
+    "repo": "https://github.com/jumbocarrot0/Redux-Arcanum",
+    "downloadURL": "https://github.com/jumbocarrot0/Redux-Arcanum/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "cea6dd6"
+  },
+  {
+    "title": "Math Blinds",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "dvrp0",
+    "repo": "https://github.com/Bazinga9000/MathBlinds",
+    "downloadURL": "https://github.com/Bazinga9000/MathBlinds/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "8807e86"
+  },
+  {
+    "title": "Gemstones",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Halo / OfficialHalo",
+    "repo": "https://github.com/0fficialHalo/Gemstones",
+    "downloadURL": "https://github.com/0fficialHalo/Gemstones/releases/latest/download/Gemstones.zip",
+    "automatic-version-check": true,
+    "version": "v0.8.0"
+  },
+  {
+    "title": "Flower Pot",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Technical"
+    ],
+    "author": "ItsFlowwey",
+    "repo": "https://github.com/GauntletGames-2086/Flower-Pot",
+    "downloadURL": "https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/master.zip",
+    "folderName": "Flower-Pot",
+    "automatic-version-check": true,
+    "version": "b43b9f4"
+  },
+  {
+    "title": "Balatro Goes Kino!",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "IcyEthics",
+    "repo": "https://github.com/icyethics/Kino",
+    "downloadURL": "https://github.com/icyethics/Kino/archive/refs/heads/main.zip",
+    "folderName": "Kino",
+    "version": "5e96140",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Pokermon",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "InertSteak",
+    "folderName": "Pokermon",
+    "repo": "https://github.com/InertSteak/Pokermon",
+    "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "b7ec2d7"
+  },
+  {
+    "title": "Custom Suit Order",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "DigitalDetective47",
+    "repo": "https://github.com/DigitalDetective47/suit-order",
+    "downloadURL": "https://github.com/DigitalDetective47/suit-order/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "0b2f126"
+  },
+  {
+    "title": "Cardsauce",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "BarrierTrio & Keku",
+    "repo": "https://github.com/BarrierTrio/Cardsauce",
+    "downloadURL": "https://github.com/BarrierTrio/Cardsauce/archive/refs/heads/main.zip",
+    "folderName": "Cardsauce",
+    "automatic-version-check": true,
+    "version": "74ff483"
+  },
+  {
+    "title": "QoL Bundle",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Riosodu",
+    "repo": "https://github.com/gfreitash/balatro-mods",
+    "downloadURL": "https://github.com/gfreitash/balatro-mods/releases/download/qol-bundle__latest/qol-bundle.zip",
+    "folderName": "qol-bundle",
+    "automatic-version-check": true,
+    "version": "black-seal__v3.2.9"
+  },
+  {
+    "title": "The Dragon Quest Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "cassiepepsi",
+    "repo": "https://github.com/cloverpepsi/Balatro-TDQDeck",
+    "downloadURL": "https://github.com/cloverpepsi/Balatro-TDQDeck/releases/download/v1.0.0/TDQ-Deck-main.zip",
+    "automatic-version-check": false,
+    "version": "v1.0.0"
+  },
+  {
+    "title": "Next Ante Preview",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "DigitalDetective47",
+    "repo": "https://github.com/DigitalDetective47/next-ante-preview",
+    "downloadURL": "https://github.com/DigitalDetective47/next-ante-preview/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "fd72a1d"
+  },
+  {
+    "title": "JokerDisplay",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "API"
+    ],
+    "author": "nh6574",
+    "repo": "https://github.com/nh6574/JokerDisplay",
+    "downloadURL": "https://github.com/nh6574/JokerDisplay/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "99a83ab"
+  },
+  {
+    "title": "Multi Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "JohnMaged",
+    "repo": "https://github.com/iJohnMaged/multi-jokers",
+    "downloadURL": "https://github.com/lusciousdev/LushMod/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "bab6c42"
+  },
+  {
+    "title": "Ruina Decks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Someone23832",
+    "repo": "https://github.com/someone23832/RuinaDecks",
+    "downloadURL": "https://github.com/someone23832/RuinaDecks/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "765368a"
+  },
+  {
+    "title": "Vietnamese Balatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "HuyTheKiller",
+    "repo": "https://github.com/HuyTheKiller/VietnameseBalatro",
+    "downloadURL": "https://github.com/HuyTheKiller/VietnameseBalatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "e5ebb5c"
+  },
+  {
+    "title": "A Jolly Expansion",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "DrFuff",
+    "repo": "https://github.com/HazzaMC/AJollyExpansion",
+    "downloadURL": "https://github.com/HazzaMC/AJollyExpansion/releases/download/v1.0.0/A_Jolly_Expansion.zip",
+    "folderName": "A Jolly Expansion",
+    "version": "1.0.0"
+  },
+  {
+    "title": "Grab Bag",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Th30ne",
+    "repo": "https://github.com/thefaketh30ne/grab-bag",
+    "downloadURL": "https://github.com/thefaketh30ne/grab-bag/archive/refs/heads/main.zip",
+    "folderName": "GrabBag",
+    "automatic-version-check": true,
+    "version": "6467c19"
+  },
+  {
+    "title": "pi_cubed's Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "pi_cubed",
+    "repo": "https://github.com/pi-cubed-cat/pi_cubeds_jokers",
+    "downloadURL": "https://github.com/pi-cubed-cat/pi_cubeds_jokers/archive/refs/heads/main.zip",
+    "version": "76ba966",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Grim",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Mathguy",
+    "repo": "https://github.com/Mathguy23/Grim",
+    "automatic-version-check": true,
+    "version": "18d57f5",
+    "downloadURL": "https://github.com/Mathguy23/Grim/archive/refs/heads/main.zip"
+  },
+  {
+    "title": "Riff-Raffling",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "UppedHealer8521",
+    "repo": "https://github.com/UppedHealer8521/Riff-Raffling",
+    "downloadURL": "https://github.com/UppedHealer8521/Riff-Raffling/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "597baf7"
+  },
+  {
+    "title": "LocFixer",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "HuyTheKiller",
+    "repo": "https://github.com/HuyTheKiller/LocFixer",
+    "downloadURL": "https://github.com/HuyTheKiller/LocFixer/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "92e99a1"
+  },
+  {
+    "title": "Trance",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "MathIsFun0",
+    "repo": "https://github.com/MathIsFun0/Trance",
+    "downloadURL": "https://github.com/MathIsFun0/Trance/archive/refs/heads/main.zip",
+    "folderName": "Trance",
+    "automatic-version-check": true,
+    "version": "fb86ebd"
+  },
+  {
+    "title": "Six Suits",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Aure",
+    "repo": "https://github.com/Aurelius7309/SixSuits",
+    "downloadURL": "https://github.com/Aurelius7309/SixSuits/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "d2044ee"
+  },
+  {
+    "title": "Malverk",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API",
+      "Quality of Life"
+    ],
+    "author": "Eremel",
+    "repo": "https://github.com/Eremel/Malverk",
+    "downloadURL": "https://github.com/Eremel/Malverk/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "02cdf66"
+  },
+  {
+    "title": "Condensed UI",
+    "automatic-version-check": true,
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "author": "Hoversquid",
+    "categories": [
+      "Quality of Life"
+    ],
+    "repo": "https://github.com/Hoversquid/Condensed_UI",
+    "downloadURL": "https://github.com/Hoversquid/Condensed_UI/archive/refs/tags/v1.2-alpha.zip",
+    "version": "v1.2-alpha"
+  },
+  {
+    "title": "The Book of Thoth Tarot",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "uXs",
+    "repo": "https://github.com/Staegloth/BalatroThoth",
+    "downloadURL": "https://github.com/Staegloth/BalatroThoth/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "29e2e81"
+  },
+  {
+    "title": "Challenger Examples",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Opal",
+    "repo": "https://github.com/OOkayOak/Challenger-Examples",
+    "downloadURL": "https://github.com/OOkayOak/Challenger-Examples/releases/latest/download/ChallengerExamples.zip",
+    "automatic-version-check": true,
+    "version": "v1.1.0"
+  },
+  {
+    "title": "SauKhongHuDecks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "HuyTheKiller",
+    "repo": "https://github.com/HuyTheKiller/SauKhongHuDecks",
+    "downloadURL": "https://github.com/HuyTheKiller/SauKhongHuDecks/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "12a6681"
+  },
+  {
+    "title": "TerrariaXBalatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Misernol",
+    "repo": "https://github.com/misenrol/TerrariaXBalatro",
+    "downloadURL": "https://github.com/misenrol/TerrariaXBalatro/archive/refs/heads/main.zip",
+    "folderName": "TerrariaXBalatro",
+    "version": "2596544",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Rofflatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Roffle's Chat",
+    "repo": "https://github.com/MamiKeRiko/Rofflatro",
+    "downloadURL": "https://github.com/MamiKeRiko/Rofflatro/archive/refs/tags/v1.1.3d.zip",
+    "folderName": "Rofflatro",
+    "version": "v1.1.3d",
+    "automatic-version-check": true
+  },
+  {
+    "title": "CardSleeves",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "API"
+    ],
+    "author": "Larswijn",
+    "repo": "https://github.com/larswijn/CardSleeves",
+    "downloadURL": "https://github.com/larswijn/CardSleeves/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "1b74176"
+  },
+  {
+    "title": "Vortex",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Keku",
+    "repo": "https://github.com/Kekulism/Vortex/",
+    "downloadURL": "https://github.com/Kekulism/Vortex/archive/refs/heads/main.zip",
+    "folderName": "Vortex",
+    "version": "9bb708f",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Bakery",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "BakersDozenBagels",
+    "repo": "https://github.com/BakersDozenBagels/BalatroBakery",
+    "downloadURL": "https://github.com/BakersDozenBagels/BalatroBakery/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "c65bc75"
+  },
+  {
+    "title": "Aikoyori Paint Job",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Aikoyori",
+    "repo": "https://github.com/Aikoyori/Balatro_AikoPaintJob",
+    "downloadURL": "https://github.com/Aikoyori/Balatro_AikoPaintJob/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "df146e1"
+  },
+  {
+    "title": "Too Many Decks",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "Squidguset",
+    "repo": "https://github.com/Squidguset/TooManyDecks",
+    "downloadURL": "https://github.com/Squidguset/TooManyDecks/archive/refs/heads/main.zip",
+    "folderName": "TooManyDecks",
+    "version": "8098d0c",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Betmma Mods",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Betmma",
+    "repo": "https://github.com/betmma/my_balatro_mods",
+    "downloadURL": "https://github.com/betmma/my_balatro_mods/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "b233911"
+  },
+  {
+    "title": "X-Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Numbuh214",
+    "repo": "https://github.com/Numbuh214/X-Card",
+    "downloadURL": "https://github.com/Numbuh214/X-Card/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "992b4ad"
+  },
+  {
+    "title": "Balatro Draft",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "spire-winder",
+    "folderName": "BalatroDraft",
+    "repo": "https://github.com/spire-winder/Balatro-Draft",
+    "downloadURL": "https://github.com/spire-winder/Balatro-Draft/releases/download/v0.5.2/Balatro-Draft-v0.5.2.zip",
+    "automatic-version-check": false,
+    "version": "v0.5.2"
+  },
+  {
+    "title": "DebugPlus",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Technical"
+    ],
+    "author": "WilsontheWolf",
+    "repo": "https://github.com/WilsontheWolf/DebugPlus",
+    "downloadURL": "https://github.com/WilsontheWolf/DebugPlus/releases/latest/download/DebugPlus.zip",
+    "automatic-version-check": true,
+    "version": "v1.4.2"
+  },
+  {
+    "title": "HandsomeDevils",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Kars, sup3p",
+    "repo": "https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-",
+    "downloadURL": "https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "d9039c2"
+  },
+  {
+    "title": "Yippie",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Coo29",
+    "repo": "https://github.com/Coo29/YippieMod",
+    "downloadURL": "https://github.com/Coo29/YippieMod/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "bc91c0b"
+  },
+  {
+    "title": "Entropy",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "Ruby",
+    "repo": "https://github.com/lord-ruby/Entropy",
+    "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
+    "folderName": "Entropy",
+    "version": "983cb6b",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Lucky Rabbit",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Fennex",
+    "repo": "https://github.com/Trif3ctal/Lucky-Rabbit",
+    "downloadURL": "https://github.com/Trif3ctal/Lucky-Rabbit/archive/refs/heads/main.zip",
+    "folderName": "LuckyRabbit",
+    "automatic-version-check": true,
+    "version": "9b19f25"
+  },
+  {
+    "title": "re:Unlock All",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "wingedcatgirl",
+    "repo": "https://github.com/wingedcatgirl/re-Unlock-All",
+    "downloadURL": "https://github.com/wingedcatgirl/re-Unlock-All/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "c9b60d2"
+  },
+  {
+    "title": "Slay the Jokers",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "edalo",
+    "repo": "https://github.com/its-edalo/slay-the-jokers",
+    "downloadURL": "https://github.com/its-edalo/slay-the-jokers/archive/main.zip",
+    "folderName": "slay-the-jokers-main",
+    "version": "v0.2",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Cartomancer",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "stupxd",
+    "repo": "https://github.com/stupxd/Cartomancer",
+    "downloadURL": "https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "662c833"
+  },
+  {
+    "title": "Maximus",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "theAstra, Maxiss02",
+    "repo": "https://github.com/the-Astra/Maximus",
+    "downloadURL": "https://github.com/the-Astra/Maximus/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "cea9a9b"
+  },
+  {
+    "title": "Binding of Isaac Tarot",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Zamos",
+    "repo": "https://github.com/theZamos/Isaac-Tarot",
+    "downloadURL": "https://github.com/theZamos/Isaac-Tarot/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "ecbff66"
+  },
+  {
+    "title": "JokerHub",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "sup3p",
+    "repo": "https://github.com/sup3p/JokerHub",
+    "downloadURL": "https://github.com/sup3p/JokerHub/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "13895b4"
+  },
+  {
+    "title": "Finn's Pokélatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Finnaware",
+    "repo": "https://github.com/Finnaware/Finn-Pokelatro",
+    "downloadURL": "https://github.com/Finnaware/Finn-Pokelatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "34651f5"
+  },
+  {
+    "title": "Main Menu Tweaks",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "termisaal & seven_kd_irl",
+    "folderName": "MainMenuTweaks",
+    "repo": "https://github.com/Catzzadilla/Main-Menu-Tweaks/",
+    "downloadURL": "https://github.com/Catzzadilla/Main-Menu-Tweaks/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "8c14dea"
+  },
+  {
+    "title": "Revo's Vault",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "CodeRevo",
+    "repo": "https://github.com/Cdrvo/Revos-Vault---Balatro-Mod",
+    "downloadURL": "https://github.com/Cdrvo/Revos-Vault---Balatro-Mod/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "30a6ff8"
+  },
+  {
+    "title": "Project Moon Texture Pack",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Kiro",
+    "repo": "https://github.com/CountKiro/PMBalatroMod",
+    "downloadURL": "https://github.com/CountKiro/PMBalatroMod/releases/download/v1.0/ProjectMoonTexturePack_v1.0.1.zip",
+    "folderName": "ProjectMoonTexturePack",
+    "version": "1.0",
+    "automatic-version-check": false
+  },
+  {
+    "title": "Ankh",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Miscellaneous"
+    ],
+    "author": "MathIsFun0 & OceanRamen",
+    "repo": "https://github.com/SpectralPack/Ankh/",
+    "downloadURL": "https://github.com/SpectralPack/Ankh/releases/download/v2.0.0-beta3/MathIsFun0-Ankh.zip",
+    "folderName": "Ankh",
+    "automatic-version-check": false,
+    "version": "v2.0.0-beta3"
+  },
+  {
+    "title": "Steamodded",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Technical"
+    ],
+    "author": "Steamodded",
+    "repo": "https://github.com/Steamodded/smods",
+    "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "b1179a4"
+  },
+  {
+    "title": "Waifu Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "AgentWill",
+    "repo": "https://github.com/AgentWill/WaifuJokers",
+    "downloadURL": "https://github.com/AgentWill/WaifuJokers/archive/refs/heads/main.zip",
+    "folderName": "WaifuJokers",
+    "automatic-version-check": true,
+    "version": "711d45a"
+  },
+  {
+    "title": "Saturn",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "Saturn",
+    "repo": "https://github.com/OceanRamen/Saturn",
+    "downloadURL": "https://github.com/OceanRamen/Saturn/archive/refs/tags/alpha-0.2.2-E-qf3.zip",
+    "folderName": "Saturn",
+    "version": "alpha-0.2.2-E-qf3",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Blueprint",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Stupxd",
+    "folderName": "Blueprint",
+    "repo": "https://github.com/stupxd/Blueprint",
+    "downloadURL": "https://github.com/stupxd/Blueprint/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "062b9f3"
+  },
+  {
+    "title": "Last Stand",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Tucaonormal",
+    "repo": "https://github.com/Tucaonormal/LastStand",
+    "downloadURL": "https://github.com/Tucaonormal/LastStand/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "e96277d"
+  },
+  {
+    "title": "Colored Suit Tarots",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "ywssp",
+    "repo": "https://github.com/ywssp/Balatro-ColoredSuitTarots",
+    "downloadURL": "https://github.com/ywssp/Balatro-ColoredSuitTarots/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "5cd04f6"
+  },
+  {
+    "title": "ZokersModMenu",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Technical",
+      "Quality of Life",
+      "Content"
+    ],
+    "author": "Zoker",
+    "repo": "https://github.com/1Zoker/ZokersModMenu",
+    "downloadURL": "https://github.com/1Zoker/ZokersModMenu/releases/latest/download/ZokersModMenu.zip",
+    "folderName": "ZokersModMenu",
+    "version": "Newest",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Sticky Fingers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Eramdam",
+    "repo": "https://github.com/eramdam/sticky-fingers/",
+    "downloadURL": "https://github.com/eramdam/sticky-fingers/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "5664de4"
+  },
+  {
+    "title": "MagicSort",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "WUOTE",
+    "repo": "https://github.com/acidflow-balatro/MagicSort",
+    "downloadURL": "https://github.com/acidflow-balatro/MagicSort/releases/latest/download/MagicSort.zip",
+    "automatic-version-check": true,
+    "version": "0.6.9"
+  },
+  {
+    "title": "Plantain",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "TeamToaster",
+    "repo": "https://github.com/IcebergLettuce0/Plantain",
+    "downloadURL": "https://github.com/IcebergLettuce0/Plantain/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "541d16b"
+  },
+  {
+    "title": "Lucky Jimbos",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "Lucky6",
+    "repo": "https://github.com/MamiKeRiko/luckyjimbos",
+    "downloadURL": "https://github.com/MamiKeRiko/luckyjimbos/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "38f3fe7"
+  },
+  {
+    "title": "Fortlatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "EricTheToon",
+    "repo": "https://github.com/EricTheToon/Fortlatro",
+    "downloadURL": "https://github.com/EricTheToon/Fortlatro/releases/latest/download/Fortlatro.zip",
+    "automatic-version-check": true,
+    "version": "1.1.7"
+  },
+  {
+    "title": "Familiar",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "RattlingSnow353/humplydinkle",
+    "repo": "https://github.com/RattlingSnow353/Familiar/tree/main",
+    "downloadURL": "https://github.com/RattlingSnow353/Familiar/archive/refs/heads/BetterCalc-Fixes.zip",
+    "automatic-version-check": true,
+    "version": "8c562ca"
+  },
+  {
+    "title": "Max's Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "Kingmaxthe2",
+    "repo": "https://github.com/Kingmaxthe2/Kingmaxthe2-Joker-Pack",
+    "downloadURL": "https://github.com/Kingmaxthe2/Kingmaxthe2-Joker-Pack/releases/latest/download/Maxs-Jokers.zip",
+    "folderName": "Kingmaxthe2 Joker Pack",
+    "version": "1.0",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Bad Apple",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "JamesTheJellyfish",
+    "repo": "https://github.com/jamesthejellyfish/BadAppleBalatro",
+    "downloadURL": "https://github.com/jamesthejellyfish/BadAppleBalatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "ee0d3c2"
+  },
+  {
+    "title": "JoyousSpring",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "nh6574",
+    "repo": "https://github.com/nh6574/JoyousSpring",
+    "downloadURL": "https://github.com/nh6574/JoyousSpring/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "a2630a0"
+  },
+  {
+    "title": "Lobotomy Corporation",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Mysthaps",
+    "repo": "https://github.com/Mysthaps/LobotomyCorp",
+    "downloadURL": "https://github.com/Mysthaps/LobotomyCorp/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "9a94dc4"
+  },
+  {
+    "title": "HandyBalatro",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "SleepyG11",
+    "repo": "https://github.com/SleepyG11/HandyBalatro",
+    "downloadURL": "https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "41ca519"
+  },
+  {
+    "title": "Strange Pencil",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "DigitalDetective47",
+    "repo": "https://github.com/DigitalDetective47/strange-pencil",
+    "downloadURL": "https://github.com/DigitalDetective47/strange-pencil/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "df43a20"
+  },
+  {
+    "title": "Gambling is Magic",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "PokeRen and Radspeon",
+    "repo": "https://github.com/RenSnek/GamblingIsMagic",
+    "downloadURL": "https://github.com/RenSnek/GamblingIsMagic/archive/refs/heads/master.zip",
+    "version": "4adae11",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Insolence",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "The Motherfucking Bearodactyl",
+    "repo": "https://github.com/thebearodactyl/insolence-balatro",
+    "downloadURL": "https://github.com/thebearodactyl/insolence-balatro/archive/refs/tags/2.1.1.zip",
+    "folderName": "Insolence",
+    "version": "2.1.1",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Rebalanced Stakes",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Miscellaneous"
+    ],
+    "author": "Riosodu",
+    "repo": "https://github.com/gfreitash/balatro-mods",
+    "downloadURL": "https://github.com/gfreitash/balatro-mods/releases/download/rebalanced-stakes__latest/rebalanced-stakes.zip",
+    "folderName": "rebalanced-stakes",
+    "automatic-version-check": true,
+    "version": "black-seal__v3.2.9"
+  },
+  {
+    "title": "Black Seal",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Riosodu",
+    "repo": "https://github.com/gfreitash/balatro-mods",
+    "downloadURL": "https://github.com/gfreitash/balatro-mods/releases/download/black-seal__latest/black-seal.zip",
+    "folderName": "black-seal",
+    "automatic-version-check": true,
+    "version": "black-seal__v3.2.9"
+  },
+  {
+    "title": "Collabs Reimagined",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Auto Watto & RS_Mind",
+    "repo": "https://github.com/AutoWatto/CollabsReimagined",
+    "downloadURL": "https://github.com/AutoWatto/CollabsReimagined/archive/refs/heads/main.zip",
+    "folderName": "CollabsReimagined",
+    "version": "89ebe04",
+    "automatic-version-check": true
+  },
+  {
+    "title": "LushMod",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "lusciousdev",
+    "repo": "https://github.com/lusciousdev/LushMod",
+    "downloadURL": "https://github.com/lusciousdev/LushMod/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "18e7554"
+  },
+  {
+    "title": "Go to bed, Minty",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "wingedcatgirl",
+    "repo": "https://github.com/wingedcatgirl/Go-To-Bed--Minty",
+    "downloadURL": "https://github.com/wingedcatgirl/Go-To-Bed--Minty/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "3899f54"
+  },
+  {
+    "title": "Highest Priestess",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "TamerSoup625",
+    "repo": "https://github.com/TamerSoup625/balatro-highest-priestess",
+    "downloadURL": "https://github.com/TamerSoup625/balatro-highest-priestess/archive/refs/heads/main.zip",
+    "folderName": "HighestPriestess",
+    "version": "8d004f1",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Prism",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Blazingulag",
+    "repo": "https://github.com/blazingulag/Prism",
+    "downloadURL": "https://github.com/blazingulag/Prism/archive/refs/heads/main.zip",
+    "folderName": "Prism",
+    "automatic-version-check": true,
+    "version": "9b70bf8"
+  },
+  {
+    "title": "Beelatro",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "InspectorB & MarioFan597",
+    "repo": "https://github.com/InspectorBalloonicorn/Beelatro",
+    "downloadURL": "https://github.com/InspectorBalloonicorn/Beelatro/archive/refs/heads/main.zip",
+    "folderName": "Beelatro",
+    "version": "42c5b2d",
+    "automatic-version-check": true
+  },
+  {
+    "title": "typist",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "kasimeka",
+    "repo": "https://github.com/kasimeka/balatro-typist-mod",
+    "downloadURL": "https://github.com/kasimeka/balatro-typist-mod/archive/refs/tags/1.8.2.zip",
+    "automatic-version-check": true,
+    "version": "1.8.2"
+  },
+  {
+    "title": "Fantom's Preview",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Fantom, Divvy",
+    "repo": "https://github.com/Fantom-Balatro/Fantoms-Preview",
+    "downloadURL": "https://github.com/Fantom-Balatro/Fantoms-Preview/releases/latest/download/Fantoms-Preview.zip",
+    "folderName": "Fantoms-Preview",
+    "version": "v2.3.1",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Too Many Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "cg223",
+    "repo": "https://github.com/cg-223/toomanyjokers",
+    "downloadURL": "https://github.com/cg-223/toomanyjokers/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "2bdffd9"
+  },
+  {
+    "title": "Cryptid",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "MathIsFun0",
+    "repo": "https://github.com/MathIsFun0/Cryptid",
+    "downloadURL": "https://github.com/MathIsFun0/Cryptid/archive/refs/tags/v0.5.9.zip",
+    "folderName": "Cryptid",
+    "automatic-version-check": true,
+    "version": "v0.5.9"
+  },
+  {
+    "title": "GARBSHIT",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Garb",
+    "repo": "https://github.com/Gainumki/GARBSHIT.git",
+    "downloadURL": "https://github.com/Gainumki/GARBSHIT/archive/refs/heads/main.zip",
+    "folderName": "GARBSHIT",
+    "automatic-version-check": true,
+    "version": "c5c9013"
+  },
+  {
+    "title": "Planet Nine",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "DarkAutumn2618",
+    "repo": "https://github.com/DarkAutumn2618/balatro-planetnine",
+    "downloadURL": "https://github.com/DarkAutumn2618/balatro-planetnine/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "f551f58"
+  },
+  {
+    "title": "Cruel Blinds",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Mathguy",
+    "repo": "https://github.com/Mathguy23/Cruel-Blinds",
+    "automatic-version-check": true,
+    "version": "fff1d37",
+    "downloadURL": "https://github.com/Mathguy23/Cruel-Blinds/archive/refs/heads/main.zip"
+  },
+  {
+    "title": "Partner",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "API"
+    ],
+    "author": "baimao",
+    "repo": "https://github.com/Icecanno/Partner-API",
+    "downloadURL": "https://github.com/Icecanno/Partner-API/archive/refs/tags/1.0.2d.zip",
+    "version": "1.0.2d",
+    "automatic-version-check": true
+  },
+  {
+    "title": "LGBT Mult Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "MrChickenDude",
+    "repo": "https://github.com/Catzzadilla/LGBT-Mult-Cards",
+    "downloadURL": "https://github.com/Catzzadilla/LGBT-Mult-Cards/archive/refs/heads/main.zip",
+    "folderName": "LGBT Mult Cards",
+    "version": "04e98bd",
+    "automatic-version-check": true
+  },
+  {
+    "title": "DeckSkinsLite",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Keku",
+    "repo": "https://github.com/Kekulism/DeckSkinsLite",
+    "downloadURL": "https://github.com/Kekulism/DeckSkinsLite/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "78cb154"
+  },
+  {
+    "title": "ExtraCredit",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker",
+      "Content"
+    ],
+    "author": "CampfireCollective",
+    "repo": "https://github.com/GuilloryCraft/ExtraCredit",
+    "downloadURL": "https://github.com/GuilloryCraft/ExtraCredit/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "94bd9fb"
+  },
+  {
+    "title": "Vocalatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Aikoyori",
+    "repo": "https://github.com/Aikoyori/Vocalatro/",
+    "downloadURL": "https://github.com/Aikoyori/Vocalatro/archive/refs/heads/main.zip",
+    "folderName": "Vocalatro",
+    "automatic-version-check": true,
+    "version": "0cf7086"
+  },
+  {
+    "title": "Horizon Mod",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "Microwave",
+    "repo": "https://github.com/ItsaMicrowave/Horizon-Mod",
+    "downloadURL": "https://github.com/ItsaMicrowave/Horizon-Mod/archive/refs/tags/v1.zip",
+    "automatic-version-check": true,
+    "version": "v1"
+  },
+  {
+    "title": "Reddit Bonanza",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "ItsGraphax, mindoftony",
+    "repo": "https://github.com/itsgraphax/reddit-bonanza",
+    "downloadURL": "https://github.com/itsgraphax/reddit-bonanza/releases/latest/download/mod.zip",
+    "folderName": "RedditBonanza",
+    "version": "v1.2.0",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Cryptposting",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Glitchkat10 and Poker The Poker",
+    "repo": "https://github.com/kierkat10/Cryptposting",
+    "downloadURL": "https://github.com/kierkat10/Cryptposting/archive/refs/heads/main.zip",
+    "folderName": "Cryptposting",
+    "version": "f35837e",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Reverse Tarot + Hijinks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "SkywardTARDIS",
+    "repo": "https://github.com/SkywardTARDIS/balatro_reverse_tarots",
+    "downloadURL": "https://github.com/SkywardTARDIS/balatro_reverse_tarots/archive/refs/heads/master.zip",
+    "folderName": "reverse_tarot",
+    "automatic-version-check": true,
+    "version": "60978ac"
+  },
+  {
+    "title": "Quilombo",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "acetna",
+    "repo": "https://github.com/acetna/Quilombo",
+    "downloadURL": "https://github.com/acetna/Quilombo/releases/latest/download/Quilombo.zip",
+    "folderName": "Quilombo",
+    "version": "hotfix",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Celestial Funk",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Lime_Effy",
+    "repo": "https://github.com/LimeEffy/Celestial-Funk",
+    "downloadURL": "https://github.com/LimeEffy/Celestial-Funk/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "0cd8f89"
+  },
+  {
+    "title": "Tiendita's",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "KROOOL",
+    "repo": "https://github.com/KROOOL/Tiendita-s-Jokers",
+    "downloadURL": "https://github.com/KROOOL/Tiendita-s-Jokers/archive/refs/heads/main.zip",
+    "folderName": "Tiendita's Jokers",
+    "version": "84db0dd",
+    "automatic-version-check": true
+  },
+  {
+    "title": "SealSeal",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "colonthreeing",
+    "repo": "https://github.com/colonthreeing/SealSealBalatro",
+    "downloadURL": "https://github.com/colonthreeing/SealSealBalatro/releases/latest/download/SealSeal.zip",
+    "folderName": "SealSeal",
+    "version": "1.1.0",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Lucky Legends I",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Lucky6",
+    "repo": "https://github.com/MamiKeRiko/luckylegends",
+    "downloadURL": "https://github.com/MamiKeRiko/luckylegends/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "b1533c2"
+  },
+  {
+    "title": "Deck Creator",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Technical"
+    ],
+    "author": "Nyoxide",
+    "repo": "https://github.com/adambennett/Balatro-DeckCreator",
+    "downloadURL": "https://github.com/adambennett/Balatro-DeckCreator/releases/download/v1.2.2/DeckCreator.zip",
+    "folderName": "Deck Creator",
+    "automatic-version-check": false,
+    "version": "v1.2.2"
+  },
+  {
+    "title": "Balajeweled",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "ARandomTank7",
+    "repo": "https://github.com/ARandomTank7/Balajeweled",
+    "downloadURL": "https://github.com/ARandomTank7/Balajeweled/releases/latest/download/Balajeweled.zip",
+    "automatic-version-check": true,
+    "version": "v0.1.3a"
+  },
+  {
+    "title": "Hit",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "mathguy",
+    "repo": "https://github.com/Mathguy23/Hit",
+    "downloadURL": "https://github.com/Mathguy23/Hit/archive/refs/heads/main.zip",
+    "folderName": "Hit",
+    "version": "e93b589",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Balatro Dark Mode",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Carroton",
+    "repo": "https://github.com/CarrotonMan/balatrodarkmode",
+    "downloadURL": "https://github.com/CarrotonMan/balatrodarkmode/releases/download/latest/balatroDarkMode.zip",
+    "folderName": "balatroDarkMode",
+    "version": "1.1.0"
+  },
+  {
+    "title": "Multi Text Box",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Riv_Falcon",
+    "repo": "https://github.com/RivFalcon/MultiTextBox",
+    "downloadURL": "https://github.com/RivFalcon/MultiTextBox/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "1ba804f"
+  },
+  {
+    "title": "Paperback",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "PaperMoon",
+    "repo": "https://github.com/GitNether/paperback",
+    "downloadURL": "https://github.com/GitNether/paperback/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "07539b3"
+  },
+  {
+    "title": "Codex Arcanum",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "itayfeder, lshtech",
+    "repo": "https://github.com/lshtech/Codex-Arcanum",
+    "downloadURL": "https://github.com/lshtech/Codex-Arcanum/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "cf24773"
+  },
+  {
+    "title": "Flush Hotkeys",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Agoraaa",
+    "folderName": "FlushHotkeys",
+    "repo": "https://github.com/Agoraaa/FlushHotkeys",
+    "downloadURL": "https://github.com/Agoraaa/FlushHotkeys/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "ac9d035"
+  },
+  {
+    "title": "Mod of Theseus",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "MothBall",
+    "repo": "https://github.com/Mod-Of-Theseus/Mod-Of-Theseus",
+    "downloadURL": "https://github.com/Mod-Of-Theseus/Mod-Of-Theseus/archive/refs/heads/main.zip",
+    "folderName": "ModOfTheseus",
+    "version": "e904a28",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Galdur",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "API"
+    ],
+    "author": "Eremel",
+    "repo": "https://github.com/Eremel/Galdur",
+    "downloadURL": "https://github.com/Eremel/Galdur/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "c0b9ad3"
+  },
+  {
+    "title": "Soup",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Resource Packs",
+      "Miscellaneous"
+    ],
+    "author": "Coo29",
+    "repo": "https://github.com/Coo29/Soup",
+    "downloadURL": "https://github.com/Coo29/Soup/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "79c38cd"
+  },
+  {
+    "title": "Marvel's Midnight Suns Tarot",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "uXs",
+    "repo": "https://github.com/Staegloth/BalatroMarvelMidnightSuns",
+    "downloadURL": "https://github.com/Staegloth/BalatroMarvelMidnightSuns/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "19e1cba"
+  },
+  {
+    "title": "Talisman",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API",
+      "Technical",
+      "Quality of Life"
+    ],
+    "author": "MathIsFun0",
+    "repo": "https://github.com/MathIsFun0/Talisman",
+    "downloadURL": "https://github.com/MathIsFun0/Talisman/releases/latest/download/Talisman.zip",
+    "folderName": "Talisman",
+    "automatic-version-check": true,
+    "version": "v2.3.0"
+  },
+  {
+    "title": "Ink And Color Suits",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "RattlingSnow353",
+    "repo": "https://github.com/RattlingSnow353/InkAndColor",
+    "downloadURL": "https://github.com/RattlingSnow353/InkAndColor/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "849a291"
+  },
+  {
+    "title": "Turbulent Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker",
+      "Content"
+    ],
+    "author": "Snoresville",
+    "repo": "https://github.com/Snoresville/snoresville_turbulent_jokers/",
+    "downloadURL": "https://github.com/Snoresville/snoresville_turbulent_jokers/releases/download/v1.1.3/SnoresvilleTurbulentJokers.zip",
+    "automatic-version-check": false,
+    "version": "v1.1.3"
+  },
+  {
+    "title": "Yorick",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "Somethingcom515",
+    "repo": "https://github.com/Somethingcom515/Yorick",
+    "downloadURL": "https://github.com/Somethingcom515/Yorick/archive/refs/heads/main.zip",
+    "folderName": "Yorick",
+    "automatic-version-check": true,
+    "version": "8e5fdff"
+  },
+  {
+    "title": "TOGA's Stuff",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "TheOneGoofAli",
+    "repo": "https://github.com/TheOneGoofAli/TOGAPackBalatro",
+    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "2b6affe"
+  },
+  {
+    "title": "Brainstorm-Rerolled",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "OceanRamen and ABGamma",
+    "repo": "https://github.com/ABGamma/Brainstorm-Rerolled/",
+    "downloadURL": "https://github.com/ABGamma/Brainstorm-Rerolled/releases/latest/download/Brainstorm-Rerolled.zip",
+    "folderName": "Brainstorm-Rerolled",
+    "version": "Brainstorm-Rerolled-1.0.2-alpha",
+    "automatic-version-check": true
+  },
+  {
+    "title": "KCVanilla",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Joker"
+    ],
+    "author": "kcgidw",
+    "repo": "https://github.com/kcgidw/kcvanilla",
+    "downloadURL": "https://github.com/kcgidw/kcvanilla/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "5966e57"
+  },
+  {
+    "title": "Seals On Everything",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Miscellaneous"
+    ],
+    "author": "Somethingcom515",
+    "repo": "https://github.com/Somethingcom515/SealsOnJokers",
+    "downloadURL": "https://github.com/Somethingcom515/SealsOnJokers/archive/refs/heads/main.zip",
+    "folderName": "SealsOnEverything",
+    "automatic-version-check": true,
+    "version": "de31ef4"
+  },
+  {
+    "title": "UnBlind",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "MeraGenio",
+    "repo": "https://github.com/MeraGenio/UnBlind",
+    "downloadURL": "https://github.com/MeraGenio/UnBlind/archive/refs/tags/1.2.1.zip",
+    "automatic-version-check": true,
+    "version": "1.2.1"
+  },
+  {
+    "title": "Glue For Modpacks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "IcyEthics",
+    "repo": "https://github.com/icyethics/Glue-For-Modpacks",
+    "downloadURL": "https://github.com/icyethics/Glue-For-Modpacks/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "3320b50"
+  },
+  {
+    "title": "GigaJokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "r0maps, Azurysu",
+    "repo": "https://github.com/r0maps/GigaJokers/tree/main",
+    "downloadURL": "https://github.com/r0maps/GigaJokers/archive/refs/heads/main.zip",
+    "folderName": "GigaJokers",
+    "version": "94d58a7",
+    "automatic-version-check": true
+  },
+  {
+    "title": "!BooBooBalatro!",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "JakeyBooBoo",
+    "repo": "https://github.com/Jakey2BooBoo/-BooBooBalatro-",
+    "downloadURL": "https://github.com/Jakey2BooBoo/-BooBooBalatro-/archive/refs/heads/main.zip",
+    "folderName": "!BooBooBalatro!",
+    "version": "acedd29",
+    "automatic-version-check": true
+  },
+  {
+    "title": "AMY's Waifu",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "AMY",
+    "repo": "https://github.com/mikamiamy/AMY-s-Balatro-texturepack",
+    "downloadURL": "https://github.com/mikamiamy/AMY-s-Balatro-texturepack/archive/refs/heads/main.zip",
+    "folderName": "AMY's Waifu",
+    "automatic-version-check": true,
+    "version": "36785d5"
+  },
+  {
+    "title": "Runelatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Isotope",
+    "repo": "https://github.com/IsotopeReal/Runelatro",
+    "downloadURL": "https://github.com/IsotopeReal/Runelatro/archive/refs/heads/main.zip",
+    "folderName": "Runelatro",
+    "version": "53e8448",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Mistigris",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "astrapboy",
+    "repo": "https://github.com/astrapboy/Mistigris",
+    "downloadURL": "https://github.com/astrapboy/Mistigris/releases/latest/download/Mistigris.zip",
+    "automatic-version-check": true,
+    "version": "v0.4.1"
+  },
+  {
+    "title": "DismissAlert",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "Breezebuilder",
+    "repo": "https://github.com/Breezebuilder/DismissAlert",
+    "downloadURL": "https://github.com/Breezebuilder/DismissAlert/releases/latest/download/DismissAlert.zip",
+    "automatic-version-check": true,
+    "version": "v1.0.0"
+  },
+  {
+    "title": "Kevin's UTY",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "SurelyNotClover",
+    "repo": "https://github.com/SurelyNotClover/Kevin-s-UTY-Balatro-Mod",
+    "downloadURL": "https://github.com/SurelyNotClover/Kevin-s-UTY-Balatro-Mod/releases/download/Release/KevinsUTY.zip",
+    "folderName": "KevinsUTY",
+    "version": "1.0.0",
+    "automatic-version-check": false
+  },
+  {
+    "title": "Minty's Silly Little Mod",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "wingedcatgirl",
+    "repo": "https://github.com/wingedcatgirl/MintysSillyMod",
+    "downloadURL": "https://github.com/wingedcatgirl/MintysSillyMod/releases/download/v0.6.2/MintysSillyMod-0.6.2.zip",
+    "automatic-version-check": false,
+    "version": "v0.6.2"
+  },
+  {
+    "title": "Joker Miku over Jimbo",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "AgentWill",
+    "repo": "https://github.com/AgentWill/MikuJimbo",
+    "downloadURL": "https://github.com/AgentWill/MikuJimbo/archive/refs/heads/main.zip",
+    "folderName": "MikuJimbo",
+    "automatic-version-check": true,
+    "version": "5576478"
+  },
+  {
+    "title": "Buffoonery",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "PinkMaggit",
+    "repo": "https://github.com/pinkmaggit-hub/Buffoonery",
+    "downloadURL": "https://github.com/pinkmaggit-hub/Buffoonery/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "b282125"
+  },
+  {
+    "title": "Deluxe Consumables",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "JeffVi",
+    "repo": "https://github.com/JeffVi/DX-Tarots",
+    "downloadURL": "https://github.com/JeffVi/DX-Tarots/archive/refs/heads/master.zip",
+    "automatic-version-check": true,
+    "version": "7c5c1df"
+  },
+  {
+    "title": "Wilder",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "Sir. Gameboy",
+    "repo": "https://github.com/Balin-P/Wilder",
+    "downloadURL": "https://github.com/Balin-P/Wilder/releases/download/Release/Wilder.zip",
+    "automatic-version-check": true,
+    "version": "Release"
+  },
+  {
+    "title": "SDM_0's Stuff",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "SDM0",
+    "repo": "https://github.com/SDM0/SDM_0-s-Stuff",
+    "downloadURL": "https://github.com/SDM0/SDM_0-s-Stuff/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "988681d"
+  },
+  {
+    "title": "All in Jest",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Survivalaiden",
+    "repo": "https://github.com/survovoaneend/All-In-Jest",
+    "downloadURL": "https://github.com/survovoaneend/All-In-Jest/archive/refs/tags/0.5.0-pre-beta.5.zip",
+    "folderName": "All-In-Jest",
+    "automatic-version-check": true,
+    "version": "0.5.0-pre-beta.5"
+  },
+  {
+    "title": "Casey",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "cat.bread",
+    "repo": "https://github.com/janw4ld/balatro-casey-mod",
+    "downloadURL": "https://github.com/janw4ld/balatro-casey-mod/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "ae8f383"
+  },
+  {
+    "title": "Absent Dealer",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Absent Abigail",
+    "repo": "https://github.com/AbsentAbigail/AbsentDealer",
+    "downloadURL": "https://github.com/AbsentAbigail/AbsentDealer/releases/latest/download/absentdealer.zip",
+    "folderName": "AbsentDealer",
+    "version": "v1.2.0",
+    "automatic-version-check": true
+  },
+  {
+    "title": "Tetrapak",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Tetraminus",
+    "repo": "https://github.com/tetraminus/Tetrapak",
+    "downloadURL": "https://github.com/tetraminus/Tetrapak/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "6950664"
+  },
+  {
+    "title": "Rain World Karma Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "LawyerRed & SpomJ",
+    "repo": "https://github.com/LawyerRed01/RW-Karma-Cards",
+    "downloadURL": "https://github.com/LawyerRed01/RW-Karma-Cards/archive/refs/heads/main.zip",
+    "automatic-version-check": true,
+    "version": "c2f5a2b"
+  }
+]
