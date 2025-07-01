@@ -230,6 +230,27 @@ if __name__ == "__main__":
     updated_mods = process_mods(start_timestamp)
     
     if updated_mods:
+        # 生成 all.json 文件，包含所有 meta.json 数据
+        mods_dir = Path('mods')
+        all_meta = []
+    
+        for mod_dir in (d for d in mods_dir.iterdir() if d.is_dir()):
+            meta_file = mod_dir / 'meta.json'
+            if meta_file.exists():
+                try:
+                    with open(meta_file, 'r', encoding='utf-8') as f:
+                        meta = json.load(f)
+                        all_meta.append(meta)
+                except Exception as e:
+                    print(f"⚠️ Failed to load {meta_file}: {e}")
+    
+        all_json_path = mods_dir / 'all.json'
+        with open(all_json_path, 'w', encoding='utf-8') as f:
+            json.dump(all_meta, f, indent=2, ensure_ascii=False)
+            f.write('\n')
+    
+        print(f"📦 Generated all.json with {len(all_meta)} entries.")
+        
         # Write commit message to a file that the GitHub Action can use
         commit_message = generate_commit_message(updated_mods)
         with open('commit_message.txt', 'w', encoding='utf-8') as f:
