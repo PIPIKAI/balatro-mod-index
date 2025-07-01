@@ -309,7 +309,7 @@ if __name__ == "__main__":
                     }
                     try:
                         resp = requests.post(
-                            f"{API_URL}/api/update_mod",
+                            f"https://{API_URL}/api/update_mod",
                             headers={"Authorization": f"Bearer {ADMIN_TOKEN}"},
                             json=req_data
                         )
