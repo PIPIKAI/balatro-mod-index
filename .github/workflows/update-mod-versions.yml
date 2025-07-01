@@ -42,7 +42,7 @@ jobs:
               COMMIT_MSG=$(cat commit_message.txt)
             fi
             
-            git add mods/*/meta.json
+            git add mods
             git commit -m "$COMMIT_MSG"
             git push
           else
