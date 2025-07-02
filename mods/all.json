@@ -1097,7 +1097,7 @@
     "author": "Larswijn",
     "downloadURL": "https://github.com/larswijn/CardSleeves/archive/refs/heads/master.zip",
     "folderName": "Larswijn@CardSleeves",
-    "version": "1b74176",
+    "version": "c2a22f0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/51133685?v=4",
     "description": "CardSleeves Balatro Mod ",
@@ -1357,7 +1357,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/201289618?v=4",
     "description": null,
-    "stars": 9,
+    "stars": 10,
     "repo_id": 943105326,
     "github_repo_url": "https://github.com/its-edalo/slay-the-jokers"
   },
@@ -1538,7 +1538,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 646,
+    "stars": 647,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
