@@ -642,7 +642,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 158,
+    "stars": 159,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -1538,7 +1538,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 648,
+    "stars": 649,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2341,7 +2341,7 @@
     "author": "Glitchkat10 and Poker The Poker",
     "downloadURL": "https://github.com/kierkat10/Cryptposting/archive/refs/heads/main.zip",
     "folderName": "Cryptposting",
-    "version": "3828360",
+    "version": "0cdc45f",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/136650292?v=4",
     "description": "A collection of the Cryptid community's unfunniest shitposts.",
