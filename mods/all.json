@@ -367,7 +367,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 185,
+    "stars": 186,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
@@ -1135,7 +1135,7 @@
     "author": "BakersDozenBagels",
     "downloadURL": "https://github.com/BakersDozenBagels/BalatroBakery/archive/refs/heads/main.zip",
     "folderName": "BakersDozenBagels@Bakery",
-    "version": "c65bc75",
+    "version": "1f3ccd5",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/59811114?v=4",
     "description": "A miscellaneous Balatro mod",
