@@ -623,7 +623,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/97385843?v=4",
     "description": "a balatro mod for movie dorks",
-    "stars": 7,
+    "stars": 8,
     "repo_id": 927831171,
     "github_repo_url": "https://github.com/icyethics/Kino"
   },
@@ -880,7 +880,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/165744246?v=4",
     "description": "Balatro, but I added Skill Trees. Skills can be attained in the Run Info Menu. Skills and XP do NOT persist between runs.",
-    "stars": 18,
+    "stars": 19,
     "repo_id": 851313426,
     "github_repo_url": "https://github.com/Mathguy23/Grim"
   },
@@ -1101,7 +1101,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/51133685?v=4",
     "description": "CardSleeves Balatro Mod ",
-    "stars": 88,
+    "stars": 89,
     "repo_id": 825315947,
     "github_repo_url": "https://github.com/larswijn/CardSleeves"
   },
@@ -1247,7 +1247,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/33164598?v=4",
     "description": "Better Debug Tools for Balatro",
-    "stars": 54,
+    "stars": 55,
     "repo_id": 785482440,
     "github_repo_url": "https://github.com/WilsontheWolf/DebugPlus"
   },
@@ -1538,7 +1538,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 649,
+    "stars": 650,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2143,7 +2143,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 432,
+    "stars": 433,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2161,7 +2161,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/81914210?v=4",
     "description": "Garb's Self-Indulgent Joker Pack",
-    "stars": 6,
+    "stars": 7,
     "repo_id": 936089203,
     "github_repo_url": "https://github.com/Gainumki/GARBSHIT.git"
   },
@@ -2216,7 +2216,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/149583568?v=4",
     "description": "A Fun-filled Vanilla Balatro Content API Mod",
-    "stars": 14,
+    "stars": 15,
     "repo_id": 981910010,
     "github_repo_url": "https://github.com/Icecanno/Partner-API"
   },
@@ -2341,7 +2341,7 @@
     "author": "Glitchkat10 and Poker The Poker",
     "downloadURL": "https://github.com/kierkat10/Cryptposting/archive/refs/heads/main.zip",
     "folderName": "Cryptposting",
-    "version": "ab7b668",
+    "version": "bb9b980",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/136650292?v=4",
     "description": "A collection of the Cryptid community's unfunniest shitposts.",
@@ -2636,7 +2636,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": null,
-    "stars": 49,
+    "stars": 50,
     "repo_id": 839008588,
     "github_repo_url": "https://github.com/Eremel/Galdur"
   },
@@ -2764,7 +2764,7 @@
     "author": "TheOneGoofAli",
     "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/heads/main.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "4569895",
+    "version": "8d21912",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
@@ -2862,7 +2862,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/97385843?v=4",
     "description": "Balatro Mod to add utilities that may make playing with many mods more enjoyable",
-    "stars": 6,
+    "stars": 7,
     "repo_id": 954165073,
     "github_repo_url": "https://github.com/icyethics/Glue-For-Modpacks"
   },
