@@ -1,0 +1,13 @@
+{
+  "title": "Balatro-Mobile-Patch",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Patch"
+  ],
+  "author": "PIPIKAI",
+  "repo": "https://github.com/PIPIKAI/Balatro-Mobile-Patch",
+  "downloadURL": "https://github.com/PIPIKAI/Balatro-Mobile-Patch/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "d767c5b"
+}
