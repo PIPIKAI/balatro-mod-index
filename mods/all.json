@@ -990,7 +990,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 28,
+    "stars": 29,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
@@ -1094,9 +1094,9 @@
       "Joker"
     ],
     "author": "Roffle's Chat",
-    "downloadURL": "https://github.com/MamiKeRiko/Rofflatro/archive/refs/tags/v1.1.3d.zip",
+    "downloadURL": "https://github.com/MamiKeRiko/Rofflatro/archive/refs/tags/v1.1.3e.zip",
     "folderName": "Rofflatro",
-    "version": "v1.1.3d",
+    "version": "v1.1.3e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/24658807?v=4",
     "description": "The Roffle Balatro Mod",
