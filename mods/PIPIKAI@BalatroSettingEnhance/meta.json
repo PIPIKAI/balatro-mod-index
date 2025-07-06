@@ -1,0 +1,13 @@
+{
+  "title": "SettingEnhance",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Patch"
+  ],
+  "author": "PIPIKAI",
+  "repo": "https://github.com/PIPIKAI/Balatro-Setting-Enhance",
+  "downloadURL": "https://github.com/PIPIKAI/Balatro-Setting-Enhance/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "3b5eb2e"
+}
