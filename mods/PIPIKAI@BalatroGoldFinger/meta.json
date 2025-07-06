@@ -1,0 +1,13 @@
+{
+  "title": "BalatroGoldFinger",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Patch"
+  ],
+  "author": "PIPIKAI",
+  "repo": "https://github.com/PIPIKAI/BalatroGoldFinger",
+  "downloadURL": "https://github.com/PIPIKAI/BalatroGoldFinger/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "2ef68c4"
+}
