@@ -2771,6 +2771,24 @@
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
   {
+    "name": "BalatroGoldFinger",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Patch"
+    ],
+    "author": "PIPIKAI",
+    "downloadURL": "https://github.com/PIPIKAI/BalatroGoldFinger/archive/refs/heads/main.zip",
+    "folderName": "PIPIKAI@BalatroGoldFinger",
+    "version": "2ef68c4",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/42113384?v=4",
+    "description": "金手指模式(打开会减少游戏游玩体验)",
+    "stars": 0,
+    "repo_id": 1014625945,
+    "github_repo_url": "https://github.com/PIPIKAI/BalatroGoldFinger"
+  },
+  {
     "name": "Ink And Color Suits",
     "requires-steamodded": true,
     "requires-talisman": false,
