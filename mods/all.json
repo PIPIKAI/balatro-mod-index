@@ -73,6 +73,24 @@
     "github_repo_url": "https://github.com/Luuumine/BalaQuints"
   },
   {
+    "name": "CuriLatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "JosephPB09 and Balatro fans",
+    "downloadURL": "https://github.com/JosephPB0909/CuriLatro/archive/refs/tags/mod.zip",
+    "folderName": "CuriLatro",
+    "version": "mod",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/219251105?v=4",
+    "description": "Mod of Balatro",
+    "stars": 0,
+    "repo_id": 1013616896,
+    "github_repo_url": "https://github.com/JosephPB0909/CuriLatro"
+  },
+  {
     "name": "NeatoJokers",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -663,6 +681,24 @@
     "stars": 2,
     "repo_id": 918832417,
     "github_repo_url": "https://github.com/DigitalDetective47/suit-order"
+  },
+  {
+    "name": "SettingEnhance",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Patch"
+    ],
+    "author": "PIPIKAI",
+    "downloadURL": "https://github.com/PIPIKAI/Balatro-Setting-Enhance/archive/refs/heads/main.zip",
+    "folderName": "PIPIKAI@BalatroSettingEnhance",
+    "version": "3b5eb2e",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/42113384?v=4",
+    "description": "小丑牌设置增强",
+    "stars": 1,
+    "repo_id": 796525920,
+    "github_repo_url": "https://github.com/PIPIKAI/Balatro-Setting-Enhance"
   },
   {
     "name": "Cardsauce",
