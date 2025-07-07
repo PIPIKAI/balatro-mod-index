@@ -830,6 +830,24 @@
     "github_repo_url": "https://github.com/someone23832/RuinaDecks"
   },
   {
+    "name": "Starrailevents",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "snowylight",
+    "downloadURL": "https://github.com/snowylight/Multipack/archive/refs/tags/V2.2.0.zip",
+    "folderName": "snowylight@Multipack",
+    "version": "V2.2.0",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110089805?v=4",
+    "description": "You can choose booster packs from a \"multipack\"",
+    "stars": 5,
+    "repo_id": 881199654,
+    "github_repo_url": "https://github.com/snowylight/Multipack"
+  },
+  {
     "name": "Vietnamese Balatro",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -1874,6 +1892,25 @@
     "github_repo_url": "https://github.com/Kingmaxthe2/Kingmaxthe2-Joker-Pack"
   },
   {
+    "name": "SlightJokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "snowylight",
+    "downloadURL": "https://github.com/snowylight/SlightJokers/archive/refs/heads/main.zip",
+    "folderName": "snowylight@SlightJokers",
+    "version": "8de46cd",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110089805?v=4",
+    "description": "An interesting joker mod for Balatro",
+    "stars": 2,
+    "repo_id": 990475065,
+    "github_repo_url": "https://github.com/snowylight/SlightJokers"
+  },
+  {
     "name": "Bad Apple",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -2054,6 +2091,25 @@
     "stars": 2,
     "repo_id": 852130501,
     "github_repo_url": "https://github.com/AutoWatto/CollabsReimagined"
+  },
+  {
+    "name": "Starrailevents",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "snowylight",
+    "downloadURL": "https://github.com/snowylight/Starrailevents/archive/refs/heads/main.zip",
+    "folderName": "snowylight@Starrailevents",
+    "version": "7b39b09",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110089805?v=4",
+    "description": "a balatro mod idea from star rail",
+    "stars": 1,
+    "repo_id": 972977375,
+    "github_repo_url": "https://github.com/snowylight/Starrailevents"
   },
   {
     "name": "LushMod",
@@ -3230,6 +3286,25 @@
     "stars": 0,
     "repo_id": 964786817,
     "github_repo_url": "https://github.com/janw4ld/balatro-casey-mod"
+  },
+  {
+    "name": "DatealiveBalatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "snowylight",
+    "downloadURL": "https://github.com/snowylight/DatealiveBalatro/archive/refs/heads/main.zip",
+    "folderName": "snowylight@DatealiveBalatro",
+    "version": "6dc6e3b",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110089805?v=4",
+    "description": "Balatro: Jokers from DATE A LIVE",
+    "stars": 6,
+    "repo_id": 813935433,
+    "github_repo_url": "https://github.com/snowylight/DatealiveBalatro"
   },
   {
     "name": "Absent Dealer",
