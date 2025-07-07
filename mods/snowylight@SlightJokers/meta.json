@@ -1,0 +1,14 @@
+{
+  "title": "SlightJokers",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "snowylight",
+  "repo": "https://github.com/snowylight/SlightJokers",
+  "downloadURL": "https://github.com/snowylight/SlightJokers/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "v1.0.3"
+}

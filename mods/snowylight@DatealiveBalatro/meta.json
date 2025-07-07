@@ -1,0 +1,14 @@
+{
+  "title": "DatealiveBalatro",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "snowylight",
+  "repo": "https://github.com/snowylight/DatealiveBalatro",
+  "downloadURL": "https://github.com/snowylight/DatealiveBalatro/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "v1.4.0a"
+}

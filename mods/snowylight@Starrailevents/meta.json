@@ -1,0 +1,14 @@
+{
+  "title": "Starrailevents",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "snowylight",
+  "repo": "https://github.com/snowylight/Starrailevents",
+  "downloadURL": "https://github.com/snowylight/Starrailevents/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "v1.1.0"
+}
