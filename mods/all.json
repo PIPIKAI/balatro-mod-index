@@ -894,7 +894,7 @@
     "author": "Th30ne",
     "downloadURL": "https://github.com/thefaketh30ne/grab-bag/archive/refs/heads/main.zip",
     "folderName": "GrabBag",
-    "version": "7e5e8d6",
+    "version": "d4dd8f7",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/110573217?v=4",
     "description": "Grab Bag is a Balatro mod that currently adds 80+ Jokers, and other miscellaneous content.",
@@ -2144,7 +2144,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/69098783?v=4",
     "description": "Don't play 'just one more run'.",
-    "stars": 1,
+    "stars": 2,
     "repo_id": 959528275,
     "github_repo_url": "https://github.com/wingedcatgirl/Go-To-Bed--Minty"
   },
