@@ -532,7 +532,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10177388?v=4",
     "description": "Balatro texture replacement mod",
-    "stars": 1,
+    "stars": 2,
     "repo_id": 909801493,
     "github_repo_url": "https://github.com/martinkauppinen/colorblind-seals"
   },
@@ -656,7 +656,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "9adae9f",
+    "version": "1b9b083",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
