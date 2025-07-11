@@ -385,7 +385,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 192,
+    "stars": 193,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
@@ -2910,7 +2910,7 @@
     "author": "TheOneGoofAli",
     "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/heads/main.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "da6b1da",
+    "version": "4ff78f8",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
