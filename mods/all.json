@@ -789,7 +789,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 89,
+    "stars": 90,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
@@ -894,7 +894,7 @@
     "author": "Th30ne",
     "downloadURL": "https://github.com/thefaketh30ne/grab-bag/archive/refs/heads/main.zip",
     "folderName": "GrabBag",
-    "version": "98c52be",
+    "version": "a93459a",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/110573217?v=4",
     "description": "Grab Bag is a Balatro mod that currently adds 80+ Jokers, and other miscellaneous content.",
