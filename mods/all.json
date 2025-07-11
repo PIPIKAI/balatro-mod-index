@@ -656,7 +656,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "1b9b083",
+    "version": "84d9d1b",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -898,7 +898,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/110573217?v=4",
     "description": "Grab Bag is a Balatro mod that currently adds 80+ Jokers, and other miscellaneous content.",
-    "stars": 3,
+    "stars": 4,
     "repo_id": 984050476,
     "github_repo_url": "https://github.com/thefaketh30ne/grab-bag"
   },
