@@ -546,7 +546,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 164,
+    "stars": 165,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "f9c05dc",
+    "version": "95cbda8",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An unbalanced cryptid addon for balatro, Built around the madness gameset",
