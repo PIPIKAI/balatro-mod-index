@@ -106,7 +106,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
-    "stars": 3,
+    "stars": 4,
     "repo_id": 902017635,
     "github_repo_url": "https://github.com/TheOneGoofAli/TOGAPackBalatro"
   },
@@ -546,7 +546,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 165,
+    "stars": 166,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "f2fb05c",
+    "version": "9a9b5e7",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An unbalanced cryptid addon for balatro, Built around the madness gameset",
@@ -991,7 +991,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/11948774?v=4",
     "description": "Balatro mod. A small pack of plausible Jokers with a faithful art style. Intended to look and feel as vanilla as possible.",
-    "stars": 30,
+    "stars": 31,
     "repo_id": 823400031,
     "github_repo_url": "https://github.com/kcgidw/kcvanilla"
   },
@@ -1064,7 +1064,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/46736855?v=4",
     "description": "Rewrite of the \"Codex Arcanum\" Balatro mod",
-    "stars": 18,
+    "stars": 19,
     "repo_id": 908158153,
     "github_repo_url": "https://github.com/jumbocarrot0/Redux-Arcanum"
   },
@@ -1100,7 +1100,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/184032402?v=4",
     "description": null,
-    "stars": 22,
+    "stars": 23,
     "repo_id": 868724292,
     "github_repo_url": "https://github.com/pinkmaggit-hub/Buffoonery"
   },
@@ -1208,7 +1208,7 @@
     "author": "PaperMoon",
     "downloadURL": "https://github.com/GitNether/paperback/archive/refs/heads/main.zip",
     "folderName": "GitNether@Paperback",
-    "version": "d514211",
+    "version": "6bf226a",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200743257?v=4",
     "description": "Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon",
@@ -2350,7 +2350,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/149583568?v=4",
     "description": "A Fun-filled Vanilla Balatro Content API Mod",
-    "stars": 16,
+    "stars": 17,
     "repo_id": 981910010,
     "github_repo_url": "https://github.com/Icecanno/Partner-API"
   },
@@ -2677,7 +2677,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/163772215?v=4",
     "description": "Neato Jokers is a vanilla Balatro mod that adds more Jokers.",
-    "stars": 62,
+    "stars": 63,
     "repo_id": 897030125,
     "github_repo_url": "https://github.com/neatoqueen/NeatoJokers"
   },
@@ -3321,7 +3321,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/51133685?v=4",
     "description": "CardSleeves Balatro Mod ",
-    "stars": 93,
+    "stars": 94,
     "repo_id": 825315947,
     "github_repo_url": "https://github.com/larswijn/CardSleeves"
   },
