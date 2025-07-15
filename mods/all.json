@@ -653,7 +653,7 @@
     "author": "Mysthaps",
     "downloadURL": "https://github.com/Mysthaps/LobotomyCorp/archive/refs/heads/main.zip",
     "folderName": "Mysthaps@LobotomyCorp",
-    "version": "f7b3b1d",
+    "version": "b326276",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/67219032?v=4",
     "description": "A Balatro mod. Face the Fear, Build the Future.",
@@ -1157,7 +1157,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 29,
+    "stars": 30,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
