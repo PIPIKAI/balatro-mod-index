@@ -635,7 +635,7 @@
     "author": "pi_cubed",
     "downloadURL": "https://github.com/pi-cubed-cat/pi_cubeds_jokers/archive/refs/heads/main.zip",
     "folderName": "pi_cubed@pi_cubedsJokers",
-    "version": "9745532",
+    "version": "275360e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/202626697?v=4",
     "description": "My first Balatro mod! Adds 75 vanilla-esque Jokers that expand your choices in how you play and craft strong builds!",
@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 654,
+    "stars": 655,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2861,7 +2861,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10442064?v=4",
     "description": "Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.",
-    "stars": 51,
+    "stars": 52,
     "repo_id": 762954783,
     "github_repo_url": "https://github.com/adambennett/Balatro-DeckCreator"
   },
