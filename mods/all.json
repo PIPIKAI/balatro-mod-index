@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 657,
+    "stars": 656,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "8111779",
+    "version": "201be7d",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An unbalanced cryptid addon for balatro, Built around the madness gameset",
