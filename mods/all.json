@@ -546,7 +546,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 170,
+    "stars": 171,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -987,7 +987,7 @@
     "author": "kcgidw",
     "downloadURL": "https://github.com/kcgidw/kcvanilla/archive/refs/heads/master.zip",
     "folderName": "kcgidw@kcvanilla",
-    "version": "e9b593e",
+    "version": "0dc2cbe",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/11948774?v=4",
     "description": "Balatro mod. A small pack of plausible Jokers with a faithful art style. Intended to look and feel as vanilla as possible.",
