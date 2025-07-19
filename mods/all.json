@@ -307,7 +307,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/62216970?v=4",
     "description": "Prism is a content mod that aims to enrich the Balatro experience while maintaining the vanilla feel",
-    "stars": 15,
+    "stars": 16,
     "repo_id": 927247286,
     "github_repo_url": "https://github.com/blazingulag/Prism"
   },
@@ -542,7 +542,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "060b392",
+    "version": "e6ce644",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 657,
+    "stars": 658,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
