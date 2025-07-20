@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "64c5de4",
+    "version": "3ff7542",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
@@ -2677,7 +2677,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/163772215?v=4",
     "description": "Neato Jokers is a vanilla Balatro mod that adds more Jokers.",
-    "stars": 63,
+    "stars": 64,
     "repo_id": 897030125,
     "github_repo_url": "https://github.com/neatoqueen/NeatoJokers"
   },
