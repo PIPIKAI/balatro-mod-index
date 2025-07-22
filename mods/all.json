@@ -617,7 +617,7 @@
     "author": "BarrierTrio & Keku",
     "downloadURL": "https://github.com/BarrierTrio/Cardsauce/archive/refs/heads/main.zip",
     "folderName": "Cardsauce",
-    "version": "cb1f8d4",
+    "version": "b71b03c",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10201780?v=4",
     "description": "A Balatro mod made for Vinesauce!",
@@ -1212,7 +1212,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200743257?v=4",
     "description": "Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon",
-    "stars": 59,
+    "stars": 60,
     "repo_id": 811381103,
     "github_repo_url": "https://github.com/GitNether/paperback"
   },
