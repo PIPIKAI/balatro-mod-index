@@ -546,7 +546,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 175,
+    "stars": 176,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -617,7 +617,7 @@
     "author": "BarrierTrio & Keku",
     "downloadURL": "https://github.com/BarrierTrio/Cardsauce/archive/refs/heads/main.zip",
     "folderName": "Cardsauce",
-    "version": "b71b03c",
+    "version": "c19c7b4",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10201780?v=4",
     "description": "A Balatro mod made for Vinesauce!",
@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 659,
+    "stars": 660,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -1579,7 +1579,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 445,
+    "stars": 446,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
