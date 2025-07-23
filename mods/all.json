@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "c1c2173",
+    "version": "c3a4605",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
@@ -2386,7 +2386,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/57104907?v=4",
     "description": "A Balatro mod that adds Deluxe consumables!",
-    "stars": 14,
+    "stars": 13,
     "repo_id": 782989226,
     "github_repo_url": "https://github.com/JeffVi/DX-Tarots"
   },
