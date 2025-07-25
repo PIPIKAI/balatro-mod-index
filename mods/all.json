@@ -435,7 +435,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/33164598?v=4",
     "description": "Better Debug Tools for Balatro",
-    "stars": 58,
+    "stars": 59,
     "repo_id": 785482440,
     "github_repo_url": "https://github.com/WilsontheWolf/DebugPlus"
   },
@@ -542,7 +542,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "e737501",
+    "version": "708087f",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 664,
+    "stars": 665,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
