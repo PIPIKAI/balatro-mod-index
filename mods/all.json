@@ -2258,7 +2258,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/204564124?v=4",
     "description": "Fantom's Preview is a QoL mod for balatro allowing for a preview of score before submitting the hand. ",
-    "stars": 17,
+    "stars": 18,
     "repo_id": 953423982,
     "github_repo_url": "https://github.com/Fantom-Balatro/Fantoms-Preview"
   },
@@ -3059,7 +3059,7 @@
     "author": "nh6574",
     "downloadURL": "https://github.com/nh6574/JoyousSpring/archive/refs/heads/master.zip",
     "folderName": "nh6574@JoyousSpring",
-    "version": "0823b41",
+    "version": "1b64c80",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Yu-Gi-Oh! Mod for Balatro",
