@@ -950,7 +950,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "e362a7c",
+    "version": "c300309",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
@@ -1579,7 +1579,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 450,
+    "stars": 451,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
