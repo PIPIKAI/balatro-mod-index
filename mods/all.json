@@ -13,7 +13,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 66,
+    "stars": 67,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -675,7 +675,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 672,
+    "stars": 673,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2727,9 +2727,9 @@
       "Content"
     ],
     "author": "Survivalaiden",
-    "downloadURL": "https://github.com/survovoaneend/All-In-Jest/archive/refs/tags/0.5.0.zip",
+    "downloadURL": "https://github.com/survovoaneend/All-In-Jest/archive/refs/tags/0.5.1.zip",
     "folderName": "All-In-Jest",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/170060598?v=4",
     "description": null,
@@ -2934,7 +2934,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": null,
-    "stars": 52,
+    "stars": 53,
     "repo_id": 839008588,
     "github_repo_url": "https://github.com/Eremel/Galdur"
   },
