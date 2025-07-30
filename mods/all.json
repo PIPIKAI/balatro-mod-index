@@ -635,7 +635,7 @@
     "author": "pi_cubed",
     "downloadURL": "https://github.com/pi-cubed-cat/pi_cubeds_jokers/archive/refs/heads/main.zip",
     "folderName": "pi_cubed@pi_cubedsJokers",
-    "version": "388b682",
+    "version": "7e2dd49",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/202626697?v=4",
     "description": "My first Balatro mod! Adds 75 vanilla-esque Jokers that expand your choices in how you play and craft strong builds!",
@@ -2658,7 +2658,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/73145114?v=4",
     "description": "Balatro QoL mod aimed at enhanced stat display/tracking",
-    "stars": 6,
+    "stars": 7,
     "repo_id": 850603859,
     "github_repo_url": "https://github.com/GauntletGames-2086/Flower-Pot"
   },
