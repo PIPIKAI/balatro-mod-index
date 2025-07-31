@@ -3,7 +3,8 @@
   "requires-steamodded": true,
   "requires-talisman": false,
   "categories": [
-    "Content"
+    "Content",
+    "Joker"
   ],
   "author": "Fennex",
   "repo": "https://github.com/Trif3ctal/Lucky-Rabbit",

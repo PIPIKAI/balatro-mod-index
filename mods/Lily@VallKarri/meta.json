@@ -1,0 +1,16 @@
+{
+  "title": "VallKarri",
+  "requires-steamodded": true,
+  "requires-talisman": true,
+  "categories": [
+    "Content",
+    "Joker",
+    "Miscellaneous"
+  ],
+  "author": "Lily",
+  "repo": "https://github.com/real-niacat/VallKarri",
+  "downloadURL": "https://github.com/real-niacat/VallKarri/archive/refs/heads/master.zip",
+  "folderName": "VallKarri",
+  "version": "e6c660c",
+  "automatic-version-check": true
+}
