@@ -620,7 +620,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 181,
+    "stars": 182,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -1265,7 +1265,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/28330882?v=4",
     "description": "An in-game clock mod for Balatro",
-    "stars": 14,
+    "stars": 15,
     "repo_id": 928692083,
     "github_repo_url": "https://github.com/Breezebuilder/SystemClock"
   },
@@ -1298,7 +1298,7 @@
     "author": "cokeblock",
     "downloadURL": "https://github.com/cokeblock/Cokelatro/releases/latest/download/cokelatro.zip",
     "folderName": "cokelatro",
-    "version": "V0.5.1A",
+    "version": "V0.5.1B",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/108153379?v=4",
     "description": "A mod cokeblock (and friends) are developing",
