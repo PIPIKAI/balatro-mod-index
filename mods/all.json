@@ -1021,12 +1021,7 @@
     "downloadURL": "https://github.com/KROOOL/Tiendita-s-Jokers/archive/refs/heads/main.zip",
     "folderName": "Tiendita's Jokers",
     "version": "7c01a1e",
-    "automatic-version-check": true,
-    "author_avatar_url": "https://avatars.githubusercontent.com/u/103546479?v=4",
-    "description": "A mod that add jokers & other things (soon) to balatro",
-    "stars": 2,
-    "repo_id": 979436517,
-    "github_repo_url": "https://github.com/KROOOL/Tiendita-s-Jokers"
+    "automatic-version-check": true
   },
   {
     "name": "Multiplayer",
@@ -2844,7 +2839,7 @@
     "author": "Lily",
     "downloadURL": "https://github.com/real-niacat/VallKarri/archive/refs/heads/master.zip",
     "folderName": "VallKarri",
-    "version": "740c5ba",
+    "version": "31b0ef4",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75869881?v=4",
     "description": "a super duper unbalanced and dumb cryptid addon for balatro",
