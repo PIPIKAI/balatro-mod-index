@@ -1040,11 +1040,11 @@
     "author": "Virtualized",
     "downloadURL": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
     "folderName": "Multiplayer",
-    "version": "v0.2.11",
+    "version": "v0.2.12",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 200,
+    "stars": 201,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
