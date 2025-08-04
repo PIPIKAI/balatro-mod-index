@@ -13,7 +13,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 67,
+    "stars": 68,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -1782,7 +1782,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 455,
+    "stars": 456,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2314,7 +2314,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 91,
+    "stars": 92,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
