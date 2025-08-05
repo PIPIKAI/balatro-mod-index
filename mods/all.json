@@ -546,7 +546,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55254209?v=4",
     "description": "Quality of life mod for Balatro",
-    "stars": 62,
+    "stars": 63,
     "repo_id": 825157359,
     "github_repo_url": "https://github.com/OceanRamen/Saturn"
   },
@@ -1040,7 +1040,7 @@
     "author": "Virtualized",
     "downloadURL": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
     "folderName": "Multiplayer",
-    "version": "v0.2.12",
+    "version": "v0.2.13",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
