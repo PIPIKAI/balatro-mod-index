@@ -289,7 +289,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 47,
+    "stars": 48,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
@@ -3692,7 +3692,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/70172964?v=4",
     "description": "Shows a preview of the next ante on the Boss Blind's cash out screen.",
-    "stars": 6,
+    "stars": 7,
     "repo_id": 945438898,
     "github_repo_url": "https://github.com/DigitalDetective47/next-ante-preview"
   },
