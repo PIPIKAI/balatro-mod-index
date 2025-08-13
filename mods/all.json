@@ -434,7 +434,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/67219032?v=4",
     "description": "A Balatro mod. Face the Fear, Build the Future.",
-    "stars": 14,
+    "stars": 15,
     "repo_id": 811338732,
     "github_repo_url": "https://github.com/Mysthaps/LobotomyCorp"
   },
@@ -2375,7 +2375,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/220454265?v=4",
     "description": "Dumb mod i made in Joker Forge",
-    "stars": 0,
+    "stars": 1,
     "repo_id": 1018373581,
     "github_repo_url": "https://github.com/N0tToxicPlayer/Flushtro"
   },
@@ -2534,7 +2534,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "7a348ec",
+    "version": "556b15e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
