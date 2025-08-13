@@ -1,0 +1,13 @@
+{
+  "title": "Mobile_Balatro_Drag_Operation_Services",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Patch"
+  ],
+  "author": "Icecanno",
+  "repo": "https://github.com/Icecanno/Mobile_Balatro_Drag_Operation_Services",
+  "downloadURL": "https://github.com/Icecanno/Mobile_Balatro_Drag_Operation_Services/archive/refs/heads/main.zip",
+  "version": "978af6f",
+  "automatic-version-check": true
+}

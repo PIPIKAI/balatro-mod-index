@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "title": "Another Stupid Balatro Mod",
   "requires-steamodded": true,
@@ -13,20 +12,3 @@
   "version": "v2.9",
   "automatic-version-check": true
 }
-=======
-{
-  "title": "Another Stupid Balatro Mod",
-  "requires-steamodded": true,
-  "requires-talisman": true,
-  "categories": [
-    "Joker"
-  ],
-  "author": "Dogg Fly",
-  "repo": "https://github.com/Dogg-Fly/Another-Stupid-Balatro-Mod",
-  "downloadURL": "https://github.com/Dogg-Fly/Another-Stupid-Balatro-Mod/releases/latest/download/anotherstupidbalatromod.zip",
-  "folderName": "anotherstupidbalatromod",
-  "version": "v2.9",
-  "automatic-version-check": true
-
-}
->>>>>>> upstream/main
