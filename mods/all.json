@@ -560,7 +560,7 @@
     "author": "Lily",
     "downloadURL": "https://github.com/real-niacat/VallKarri/archive/refs/heads/master.zip",
     "folderName": "VallKarri",
-    "version": "307f86b",
+    "version": "08508de",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75869881?v=4",
     "description": "a super duper unbalanced and dumb cryptid addon for balatro",
@@ -1132,7 +1132,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 689,
+    "stars": 690,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
