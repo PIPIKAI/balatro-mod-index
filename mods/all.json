@@ -729,7 +729,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 68,
+    "stars": 69,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -1803,7 +1803,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 204,
+    "stars": 205,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
@@ -2534,7 +2534,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "9ed0662",
+    "version": "e073bdb",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
