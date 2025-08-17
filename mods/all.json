@@ -1427,7 +1427,7 @@
     "author": "SirMaiquis",
     "downloadURL": "https://github.com/SirMaiquis/Balatro-TagManager/releases/latest/download/TagManager.zip",
     "folderName": "TagManager",
-    "version": "v1.1.0",
+    "version": "v1.2.0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/40647363?v=4",
     "description": "Tag Manager is a mod to control tags in the game, you can manage the Ante when they can start appearing!",
@@ -2484,7 +2484,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 48,
+    "stars": 49,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
