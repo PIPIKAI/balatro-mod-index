@@ -766,7 +766,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 189,
+    "stars": 190,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -870,7 +870,7 @@
     "author": "HuyTheKiller",
     "downloadURL": "https://github.com/HuyTheKiller/VietnameseBalatro/archive/refs/heads/main.zip",
     "folderName": "HuyTheKiller@VietnameseBalatro",
-    "version": "ece6703",
+    "version": "1d7b776",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/144886997?v=4",
     "description": "Vietnamese translation for Balatro.",
