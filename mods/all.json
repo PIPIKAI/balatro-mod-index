@@ -930,7 +930,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 102,
+    "stars": 103,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
@@ -1225,7 +1225,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/126398781?v=4",
     "description": "A Balatro mod with many Joker ideas suggested on reddit.",
-    "stars": 10,
+    "stars": 11,
     "repo_id": 990911535,
     "github_repo_url": "https://github.com/itsgraphax/reddit-bonanza"
   },
@@ -2534,7 +2534,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "4cf4f7d",
+    "version": "1e2606e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
