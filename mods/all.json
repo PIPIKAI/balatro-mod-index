@@ -1132,7 +1132,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 696,
+    "stars": 697,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -1334,7 +1334,7 @@
     "author": "ABuffZucchini",
     "downloadURL": "https://github.com/ABuffZucchini/Greener-Jokers/archive/refs/heads/main.zip",
     "folderName": "Greener-Jokers",
-    "version": "a4bd2bd",
+    "version": "d1624d2",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55515577?v=4",
     "description": "A Balatro mod with 60 Jokers, 10 Challenges, and 5 Decks",
@@ -3104,7 +3104,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/56555833?v=4",
     "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)",
-    "stars": 51,
+    "stars": 50,
     "repo_id": 768830481,
     "github_repo_url": "https://github.com/Kooluve/Better-Mouse-And-Gamepad"
   },
