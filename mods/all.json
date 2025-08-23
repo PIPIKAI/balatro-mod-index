@@ -2319,7 +2319,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 33,
+    "stars": 34,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
@@ -2371,7 +2371,7 @@
     "author": "ToxicPlayer",
     "downloadURL": "https://github.com/N0tToxicPlayer/Flushtro/releases/latest/download/flushtro.zip",
     "folderName": "Flushtro",
-    "version": "v4.0.0",
+    "version": "v4.1.0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/220454265?v=4",
     "description": "Dumb mod i made in Joker Forge",
@@ -3583,7 +3583,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/33164598?v=4",
     "description": "Better Debug Tools for Balatro",
-    "stars": 61,
+    "stars": 62,
     "repo_id": 785482440,
     "github_repo_url": "https://github.com/WilsontheWolf/DebugPlus"
   },
