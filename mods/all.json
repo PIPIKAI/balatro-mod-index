@@ -1058,7 +1058,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/149583568?v=4",
     "description": "A Fun-filled Vanilla Balatro Content API Mod",
-    "stars": 19,
+    "stars": 20,
     "repo_id": 981910010,
     "github_repo_url": "https://github.com/Icecanno/Partner-API"
   },
@@ -1128,7 +1128,7 @@
     "author": "Steamodded",
     "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
     "folderName": "Steamodded@smods",
-    "version": "c4c246c",
+    "version": "4715f75",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
@@ -2813,7 +2813,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 472,
+    "stars": 473,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
