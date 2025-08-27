@@ -729,7 +729,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 72,
+    "stars": 73,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -1128,7 +1128,7 @@
     "author": "Steamodded",
     "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
     "folderName": "Steamodded@smods",
-    "version": "b2a1ef8",
+    "version": "5c124e3",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
@@ -2813,7 +2813,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 475,
+    "stars": 476,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
