@@ -2534,7 +2534,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "1b7a87d",
+    "version": "f90b592",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
@@ -3197,7 +3197,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75325082?v=4",
     "description": "A vanilla-inspired mod that brings new ideas to Balatro",
-    "stars": 14,
+    "stars": 15,
     "repo_id": 909135159,
     "github_repo_url": "https://github.com/the-Astra/Maximus"
   },
