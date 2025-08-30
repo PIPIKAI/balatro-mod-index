@@ -402,7 +402,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/126398781?v=4",
     "description": "A Balatro mod with many Joker ideas suggested on reddit.",
-    "stars": 11,
+    "stars": 13,
     "repo_id": 990911535,
     "github_repo_url": "https://github.com/itsgraphax/reddit-bonanza"
   },
@@ -3684,7 +3684,7 @@
     "author": "HuyTheKiller",
     "downloadURL": "https://github.com/HuyTheKiller/VietnameseBalatro/archive/refs/heads/main.zip",
     "folderName": "HuyTheKiller@VietnameseBalatro",
-    "version": "1d7b776",
+    "version": "34c78a4",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/144886997?v=4",
     "description": "Vietnamese translation for Balatro.",
