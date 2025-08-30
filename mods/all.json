@@ -1672,7 +1672,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/12034280?v=4",
     "description": null,
-    "stars": 28,
+    "stars": 29,
     "repo_id": 913234624,
     "github_repo_url": "https://github.com/Aikoyori/Balatro-Aikoyoris-Shenanigans"
   },
@@ -2967,7 +2967,7 @@
     "author": "Virtualized",
     "downloadURL": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
     "folderName": "Multiplayer",
-    "version": "v0.2.16",
+    "version": "v0.2.17",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
