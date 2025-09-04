@@ -457,7 +457,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 45,
+    "stars": 46,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -548,7 +548,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": null,
-    "stars": 55,
+    "stars": 56,
     "repo_id": 839008588,
     "github_repo_url": "https://github.com/Eremel/Galdur"
   },
@@ -736,7 +736,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/59957544?v=4",
     "description": null,
-    "stars": 33,
+    "stars": 34,
     "repo_id": 861192073,
     "github_repo_url": "https://github.com/notmario/MoreFluff"
   },
@@ -1544,7 +1544,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/110089805?v=4",
     "description": "You can choose booster packs from a \"multipack\"",
-    "stars": 5,
+    "stars": 6,
     "repo_id": 881199654,
     "github_repo_url": "https://github.com/snowylight/Multipack"
   },
@@ -1742,7 +1742,7 @@
     "author": "itayfeder",
     "downloadURL": "https://github.com/wingedcatgirl/Fusion-Jokers/archive/refs/heads/main.zip",
     "folderName": "Itayfeder@FusionJokers",
-    "version": "4d1a05e",
+    "version": "bd75e4c",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/69098783?v=4",
     "description": "Fuse jokers into special powerful versions!",
@@ -2409,7 +2409,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 73,
+    "stars": 74,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -3670,7 +3670,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 51,
+    "stars": 52,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
