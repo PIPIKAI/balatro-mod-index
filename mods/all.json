@@ -1010,7 +1010,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/175903883?v=4",
     "description": null,
-    "stars": 9,
+    "stars": 10,
     "repo_id": 905443213,
     "github_repo_url": "https://github.com/spire-winder/Balatro-Draft"
   },
@@ -1965,7 +1965,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/62216970?v=4",
     "description": "Prism is a content mod that aims to enrich the Balatro experience while maintaining the vanilla feel",
-    "stars": 17,
+    "stars": 18,
     "repo_id": 927247286,
     "github_repo_url": "https://github.com/blazingulag/Prism"
   },
@@ -3044,7 +3044,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200743257?v=4",
     "description": "Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon",
-    "stars": 67,
+    "stars": 68,
     "repo_id": 811381103,
     "github_repo_url": "https://github.com/GitNether/paperback"
   },
@@ -3780,7 +3780,7 @@
     "author": "Lily",
     "downloadURL": "https://github.com/real-niacat/VallKarri/archive/refs/heads/master.zip",
     "folderName": "VallKarri",
-    "version": "5a829ca",
+    "version": "d0166cf",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75869881?v=4",
     "description": "a super duper unbalanced and dumb cryptid addon for balatro",
