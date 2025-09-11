@@ -457,7 +457,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 46,
+    "stars": 47,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -693,7 +693,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "b3cd53b",
+    "version": "72b75b3",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -2372,7 +2372,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55254209?v=4",
     "description": "Quality of life mod for Balatro",
-    "stars": 67,
+    "stars": 68,
     "repo_id": 825157359,
     "github_repo_url": "https://github.com/OceanRamen/Saturn"
   },
@@ -3670,7 +3670,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 54,
+    "stars": 55,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
