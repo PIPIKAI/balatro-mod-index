@@ -1076,9 +1076,9 @@
       "Content"
     ],
     "author": "The Motherfucking Bearodactyl",
-    "downloadURL": "https://github.com/thebearodactyl/insolence-balatro/archive/refs/tags/2.1.5.zip",
+    "downloadURL": "https://github.com/thebearodactyl/insolence-balatro/archive/refs/tags/2.1.6.zip",
     "folderName": "Insolence",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/114454115?v=4",
     "description": "A mod i made for balatro",
@@ -2553,7 +2553,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 711,
+    "stars": 712,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
