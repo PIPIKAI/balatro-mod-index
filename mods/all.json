@@ -693,7 +693,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "6aca409",
+    "version": "0f22c4b",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -3598,7 +3598,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 111,
+    "stars": 112,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
