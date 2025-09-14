@@ -101,7 +101,7 @@
     "author": "Kars, sup3p",
     "downloadURL": "https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-/archive/refs/heads/main.zip",
     "folderName": "Kars&sup3p@HandsomeDevils",
-    "version": "d9039c2",
+    "version": "745553b",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/104784206?v=4",
     "description": null,
@@ -402,7 +402,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/126398781?v=4",
     "description": "A Balatro mod with many Joker ideas suggested on reddit.",
-    "stars": 13,
+    "stars": 14,
     "repo_id": 990911535,
     "github_repo_url": "https://github.com/itsgraphax/reddit-bonanza"
   },
@@ -457,7 +457,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 48,
+    "stars": 49,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -2317,7 +2317,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 98,
+    "stars": 99,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
@@ -2409,7 +2409,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 76,
+    "stars": 77,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -3727,7 +3727,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/84652396?v=4",
     "description": "Shenanigans and Randomness had a hot steamy intimate time",
-    "stars": 1,
+    "stars": 2,
     "repo_id": 1017847972,
     "github_repo_url": "https://github.com/Clickseee/Tangents"
   },
