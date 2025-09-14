@@ -732,7 +732,7 @@
     "author": "notmario",
     "downloadURL": "https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip",
     "folderName": "notmario@MoreFluff",
-    "version": "5d3b6b1",
+    "version": "3c88a41",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/59957544?v=4",
     "description": null,
@@ -1965,7 +1965,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/62216970?v=4",
     "description": "Prism is a content mod that aims to enrich the Balatro experience while maintaining the vanilla feel",
-    "stars": 18,
+    "stars": 19,
     "repo_id": 927247286,
     "github_repo_url": "https://github.com/blazingulag/Prism"
   },
@@ -2553,7 +2553,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 714,
+    "stars": 715,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
