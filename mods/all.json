@@ -2317,7 +2317,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 99,
+    "stars": 100,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
@@ -3780,7 +3780,7 @@
     "author": "Lily",
     "downloadURL": "https://github.com/real-niacat/VallKarri/archive/refs/heads/master.zip",
     "folderName": "VallKarri",
-    "version": "af27be9",
+    "version": "88c5da8",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75869881?v=4",
     "description": "reluctantly, the kitty mod for balatro",
