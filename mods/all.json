@@ -392,7 +392,7 @@
     "author": "IcyEthics",
     "downloadURL": "https://github.com/icyethics/Kino/archive/refs/heads/main.zip",
     "folderName": "Kino",
-    "version": "933a602",
+    "version": "00f9db7",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/97385843?v=4",
     "description": "a balatro mod for movie dorks",
@@ -673,7 +673,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/56555833?v=4",
     "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)",
-    "stars": 51,
+    "stars": 52,
     "repo_id": 768830481,
     "github_repo_url": "https://github.com/Kooluve/Better-Mouse-And-Gamepad"
   },
