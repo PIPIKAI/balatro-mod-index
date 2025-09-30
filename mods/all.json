@@ -654,7 +654,7 @@
     "version": "a4a73ab",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55515577?v=4",
-    "description": "A Balatro mod with 60 Jokers, 10 Challenges, and 5 Decks",
+    "description": "A Balatro mod with 75 Jokers, 10 Challenges, and 5 Decks",
     "stars": 4,
     "repo_id": 1020493116,
     "github_repo_url": "https://github.com/ABuffZucchini/Greener-Jokers"
@@ -3289,7 +3289,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 221,
+    "stars": 222,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
