@@ -2085,7 +2085,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "e9af211",
+    "version": "c66b4ee",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -2710,7 +2710,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Yu-Gi-Oh! Mod for Balatro",
-    "stars": 32,
+    "stars": 33,
     "repo_id": 924306936,
     "github_repo_url": "https://github.com/nh6574/JoyousSpring"
   },
