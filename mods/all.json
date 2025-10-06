@@ -2985,7 +2985,7 @@
     "author": "nh6574",
     "downloadURL": "https://github.com/nh6574/JokerDisplay/archive/refs/heads/master.zip",
     "folderName": "nh6574@JokerDisplay",
-    "version": "f205f40",
+    "version": "73c707e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
@@ -3381,7 +3381,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10201780?v=4",
     "description": "A Balatro mod made for Vinesauce!",
-    "stars": 67,
+    "stars": 68,
     "repo_id": 808875805,
     "github_repo_url": "https://github.com/BarrierTrio/Cardsauce"
   },
