@@ -2085,7 +2085,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "9b42b45",
+    "version": "e6bcee9",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -2509,7 +2509,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1409924?v=4",
     "description": "A Balatro mod that brings \"touch\" controls to Balatro on PC/Mac, making it a bit more fun to play on desktop and improving the experience on touch-based PCs like the Steam Deck!",
-    "stars": 18,
+    "stars": 19,
     "repo_id": 914712250,
     "github_repo_url": "https://github.com/eramdam/sticky-fingers/"
   },
