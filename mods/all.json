@@ -319,7 +319,7 @@
     "author": "Steamodded",
     "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
     "folderName": "Steamodded@smods",
-    "version": "11eea60",
+    "version": "ce1d61c",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
@@ -2107,7 +2107,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
-    "stars": 17,
+    "stars": 18,
     "repo_id": 962042759,
     "github_repo_url": "https://github.com/lord-ruby/Entropy"
   },
