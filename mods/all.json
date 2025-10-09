@@ -2509,7 +2509,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1409924?v=4",
     "description": "A Balatro mod that brings \"touch\" controls to Balatro on PC/Mac, making it a bit more fun to play on desktop and improving the experience on touch-based PCs like the Steam Deck!",
-    "stars": 19,
+    "stars": 20,
     "repo_id": 914712250,
     "github_repo_url": "https://github.com/eramdam/sticky-fingers/"
   },
@@ -3023,7 +3023,7 @@
     "author": "notmario",
     "downloadURL": "https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip",
     "folderName": "notmario@MoreFluff",
-    "version": "5187b5d",
+    "version": "72a31ad",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/59957544?v=4",
     "description": null,
