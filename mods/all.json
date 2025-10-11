@@ -2195,7 +2195,7 @@
     "author": "Fennex",
     "downloadURL": "https://github.com/Trif3ctal/Lucky-Rabbit/archive/refs/heads/main.zip",
     "folderName": "LuckyRabbit",
-    "version": "1cd574f",
+    "version": "168d863",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/133813395?v=4",
     "description": "Vanilla+ Balatro mod featuring new Jokers, blinds, and a new consumable type!",
@@ -3269,7 +3269,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/110573217?v=4",
     "description": "Grab Bag is a Balatro mod that currently adds 120+ Jokers, and other miscellaneous content.",
-    "stars": 8,
+    "stars": 9,
     "repo_id": 984050476,
     "github_repo_url": "https://github.com/thefaketh30ne/grab-bag"
   },
