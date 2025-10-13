@@ -3192,7 +3192,12 @@
     "downloadURL": "https://github.com/MathIsFun0/Talisman/releases/latest/download/Talisman.zip",
     "folderName": "Talisman",
     "version": "v2.5",
-    "automatic-version-check": true
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
+    "description": "A mod to enhance high-scoring runs",
+    "stars": 117,
+    "repo_id": 802280847,
+    "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
   {
     "name": "SlightJokers",
