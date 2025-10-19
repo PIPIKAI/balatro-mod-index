@@ -1952,7 +1952,7 @@
     "author": "Steamodded",
     "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
     "folderName": "Steamodded@smods",
-    "version": "767b401",
+    "version": "f4f29d9",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
@@ -2734,7 +2734,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/56555833?v=4",
     "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)",
-    "stars": 52,
+    "stars": 53,
     "repo_id": 768830481,
     "github_repo_url": "https://github.com/Kooluve/Better-Mouse-And-Gamepad"
   },
