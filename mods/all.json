@@ -174,7 +174,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "1788bf8",
+    "version": "5ee13d8",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -1956,7 +1956,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 734,
+    "stars": 735,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
