@@ -1040,7 +1040,7 @@
     "author": "SleepyG11",
     "downloadURL": "https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip",
     "folderName": "SleepyG11@HandyBalatro",
-    "version": "164e16b",
+    "version": "5a365ab",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
@@ -2491,7 +2491,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 35,
+    "stars": 36,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
