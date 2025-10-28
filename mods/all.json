@@ -319,11 +319,11 @@
     "author": "Steamodded",
     "downloadURL": "https://github.com/Steamodded/smods/archive/refs/heads/main.zip",
     "folderName": "Steamodded@smods",
-    "version": "176001c",
+    "version": "3bf7d52",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 739,
+    "stars": 740,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
