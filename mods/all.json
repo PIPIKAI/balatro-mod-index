@@ -1064,7 +1064,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/46736855?v=4",
     "description": "Bunco is a vanilla-style Balatro content mod ",
-    "stars": 23,
+    "stars": 24,
     "repo_id": 932035951,
     "github_repo_url": "https://github.com/jumbocarrot0/Bunco"
   },
@@ -1937,7 +1937,7 @@
     "author": "Aikoyori",
     "downloadURL": "https://github.com/Aikoyori/Balatro-Aikoyoris-Shenanigans/archive/refs/heads/main.zip",
     "folderName": "Aikoyori@Aikoyoris-Shenanigans",
-    "version": "4bbcfc2",
+    "version": "d689e24",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/12034280?v=4",
     "description": null,
@@ -3195,7 +3195,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 118,
+    "stars": 119,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
