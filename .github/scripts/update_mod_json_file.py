@@ -120,10 +120,8 @@ if __name__ == "__main__":
     print(f"📦 Generated all.json with {len(all_meta)} entries.")
 
     commit_message = generate_commit_message()
-        with open('commit_message.txt', 'w', encoding='utf-8') as f:
-            f.write(commit_message)
-    else:
-        print("ℹ️ Completed. No mod versions needed updating.")
+    with open('commit_message.txt', 'w', encoding='utf-8') as f:
+        f.write(commit_message)
 
     sys.exit(0)
 
