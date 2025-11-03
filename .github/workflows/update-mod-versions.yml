@@ -29,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
-          python .github/scripts/update_mod_versions.py && .github/scripts/update_mod_json_file.py
+          python .github/scripts/update_mod_versions.py && python .github/scripts/update_mod_json_file.py
           
       - name: Commit and push changes
         run: |

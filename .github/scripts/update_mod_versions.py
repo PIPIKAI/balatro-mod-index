@@ -275,66 +275,17 @@ if __name__ == "__main__":
     start_timestamp = int(time.time())
     start_datetime = datetime.fromtimestamp(start_timestamp).strftime('%H:%M:%S')
     print(f"🔄 Starting automatic mod version update at {start_datetime}...")
-
     updated_mods = process_mods(start_timestamp)
-
-    # ✅ 不管是否有更新都生成 all.json
-    mods_dir = Path('mods')
-    all_meta = []
-    for mod_dir in (d for d in mods_dir.iterdir() if d.is_dir()):
-        meta_file = mod_dir / 'meta.json'
-        if meta_file.exists():
-            try:
-                with open(meta_file, 'r', encoding='utf-8') as f:
-                    meta = json.load(f)
-
-                # 重组字段结构
-                new_entry = {
-                    "name": meta.get("title", mod_dir.name),
-                    "requires-steamodded": meta.get("requires-steamodded", False),
-                    "requires-talisman": meta.get("requires-talisman", False),
-                    "categories": meta.get("categories", []),
-                    "author": meta.get("author", ""),
-                    "downloadURL": meta.get("downloadURL", ""),
-                    "folderName": meta.get("folderName", mod_dir.name),
-                    "version": meta.get("version", ""),
-                    "automatic-version-check": meta.get("automatic-version-check", False),
-                }
-
-                # 额外请求 GitHub 信息，合并进 new_entry
-                repo_url = meta.get("repo", "")
-                if repo_url:
-                    github_info = fetch_github_repo_info(repo_url)
-                    new_entry.update(github_info)
-                else:
-                    # 没有 repo 时，github_repo_url 置空，其他置默认
-                    new_entry.update({
-                        "author_avatar_url": "",
-                        "description": "",
-                        "stars": 0,
-                        "repo_id": 0,
-                        "github_repo_url": ""
-                    })
-
-                all_meta.append(new_entry)
-            except Exception as e:
-                print(f"⚠️ Failed to load {meta_file}: {e}")
-
-    # 写入 all.json
-    all_json_path = mods_dir / 'all.json'
-    with open(all_json_path, 'w', encoding='utf-8') as f:
-        json.dump(all_meta, f, indent=2, ensure_ascii=False)
-        f.write('\n')
-
-    print(f"📦 Generated all.json with {len(all_meta)} entries.")
-
-    # ✅ 如果有更新才生成详细 commit message
+    
     if updated_mods:
+        # Write commit message to a file that the GitHub Action can use
         commit_message = generate_commit_message(updated_mods)
         with open('commit_message.txt', 'w', encoding='utf-8') as f:
             f.write(commit_message)
+        
         print(f"✅ Completed. Updated {len(updated_mods)} mod versions.")
     else:
         print("ℹ️ Completed. No mod versions needed updating.")
-
+    
+    # Exit with status code 0 even if no updates were made
     sys.exit(0)
