@@ -15,27 +15,7 @@ import requests
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
 
-def fetch_github_repo_info(repo_url):
-    """从 GitHub API 获取仓库详细信息"""
-    owner, repo = extract_repo_info(repo_url)
-    if not owner or not repo:
-        return {}
-
-    api_url = f"https://api.github.com/repos/{owner}/{repo}"
-    try:
-        response = requests.get(api_url, headers=HEADERS)
-        if response.status_code == 200:
-            data = response.json()
-            return {
-                "author_avatar_url": data["owner"]["avatar_url"],
-                "description": data.get("description", ""),
-                "stars": data.get("stargazers_count", 0),
-                "repo_id": data.get("id", 0),
-                "github_repo_url": repo_url
-            }
-    except Exception as e:
-        print(f"⚠️ Failed to fetch GitHub info for {repo_url}: {e}")
-    return {}
+TIME_NOW = int(time.time())
 
 def extract_repo_info(repo_url):
     """Extract owner and repo name from GitHub repo URL."""
@@ -255,6 +235,7 @@ def process_mod(start_timestamp, name, meta_file):
         f"✅ Updating {name} from {current_version} to {new_version} ({source})"
     )
     meta['version'] = new_version
+    meta['last-updated'] = TIME_NOW
     if "/archive/refs/tags/" in download_url:
         meta['downloadURL'] = f"{repo_url}/archive/refs/tags/{meta['version']}.zip"
     elif source == VersionSource.SPECIFIC_TAG:
