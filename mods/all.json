@@ -140,7 +140,7 @@
     "author": "Pinktheone",
     "downloadURL": "https://github.com/mpa-LHutchinson/Regals-Mod/archive/refs/heads/main.zip",
     "folderName": "RegalsMod",
-    "version": "aa68e55",
+    "version": "e6382b6",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/49694715?v=4",
     "description": "A mod containing 45 brand new jokers and 5 new decks with custom artwork and vanilla balancing in mind.",
@@ -311,7 +311,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55254209?v=4",
     "description": "Quality of life mod for Balatro",
-    "stars": 71,
+    "stars": 72,
     "repo_id": 825157359,
     "github_repo_url": "https://github.com/OceanRamen/Saturn"
   },
@@ -514,7 +514,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 741,
+    "stars": 742,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -1843,7 +1843,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 512,
+    "stars": 513,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -3073,7 +3073,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/51133685?v=4",
     "description": "CardSleeves Balatro Mod",
-    "stars": 107,
+    "stars": 108,
     "repo_id": 825315947,
     "github_repo_url": "https://github.com/larswijn/CardSleeves"
   },
@@ -4032,7 +4032,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 119,
+    "stars": 120,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
