@@ -85,7 +85,7 @@
     "author": "Sonfive",
     "downloadURL": "https://github.com/SonfiveTV/PokermonPlus/archive/refs/heads/main.zip",
     "folderName": "PokermonPlus",
-    "version": "4ceb6f4",
+    "version": "5bad728",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/195581178?v=4",
     "description": "This is an add-on mod for Pokermon, an add-on mod for Balatro",
@@ -4032,7 +4032,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 120,
+    "stars": 121,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
