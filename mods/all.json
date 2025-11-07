@@ -2095,7 +2095,7 @@
     "author": "DigitalDetective47",
     "downloadURL": "https://github.com/DigitalDetective47/strange-library/archive/refs/heads/main.zip",
     "folderName": "DigitalDetective47@StrangeLibrary",
-    "version": "b072fb7",
+    "version": "183a4d8",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/70172964?v=4",
     "description": "Library mod for functionality used by Strange Pencil",
@@ -3808,7 +3808,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 107,
+    "stars": 108,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
