@@ -440,7 +440,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 51,
+    "stars": 52,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -514,7 +514,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 743,
+    "stars": 744,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2904,7 +2904,7 @@
     "author": "Fennex",
     "downloadURL": "https://github.com/Trif3ctal/Lucky-Rabbit/archive/refs/heads/main.zip",
     "folderName": "LuckyRabbit",
-    "version": "0e718cd",
+    "version": "ba99192",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/133813395?v=4",
     "description": "Vanilla+ Balatro mod featuring new Jokers, blinds, and a new consumable type!",
