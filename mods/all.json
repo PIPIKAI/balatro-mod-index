@@ -311,7 +311,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55254209?v=4",
     "description": "Quality of life mod for Balatro",
-    "stars": 72,
+    "stars": 73,
     "repo_id": 825157359,
     "github_repo_url": "https://github.com/OceanRamen/Saturn"
   },
@@ -440,7 +440,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 52,
+    "stars": 53,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -514,7 +514,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 745,
+    "stars": 746,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2317,7 +2317,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/54956345?v=4",
     "description": "Simulate the score you will get on the selected cards!",
-    "stars": 139,
+    "stars": 140,
     "repo_id": 775769353,
     "github_repo_url": "https://github.com/DivvyCr/Balatro-Preview"
   },
