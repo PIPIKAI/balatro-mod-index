@@ -1437,7 +1437,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
     "description": "Mod Developer Chaos",
-    "stars": 43,
+    "stars": 44,
     "repo_id": 1025716679,
     "github_repo_url": "https://github.com/the-Astra/Hot-Potato"
   },
@@ -1843,7 +1843,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 519,
+    "stars": 520,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2626,7 +2626,7 @@
     "author": "Maelmc",
     "downloadURL": "https://github.com/Maelmc/Pokermon-Maelmc/archive/refs/heads/main.zip",
     "folderName": "Pokermon-Maelmc",
-    "version": "95d0f3e",
+    "version": "81b9275",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/30575979?v=4",
     "description": "Maelmc's Pokermon extension",
