@@ -36,7 +36,7 @@ jobs:
           git config --global user.name 'Version Update Bot'
           git config --global user.email 'bot@noreply.github.com'
           
-          if [[ $(git status --porcelain) ]]; then
+          if [[ $(git status --porcelain mods) ]]; then
             COMMIT_MSG="Auto-update mod versions"
             if [ -f commit_message.txt ]; then
               COMMIT_MSG=$(cat commit_message.txt)
