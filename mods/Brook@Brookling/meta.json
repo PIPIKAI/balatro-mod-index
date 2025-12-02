@@ -1,0 +1,14 @@
+{
+  "title": "Brook",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Quality of Life",
+    "Contant"
+  ],
+  "author": "Brookling",
+  "repo": "https://github.com/Brookling/Brook",
+  "downloadURL": "https://github.com/Brookling/Brook/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "v1.0.1"
+}
