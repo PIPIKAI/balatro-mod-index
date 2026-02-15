@@ -1282,9 +1282,9 @@
       "Miscellaneous"
     ],
     "author": "kasimeka",
-    "downloadURL": "https://github.com/kasimeka/balatro-typist-mod/archive/refs/tags/1.8.3.zip",
+    "downloadURL": "https://github.com/kasimeka/balatro-typist-mod/archive/refs/tags/1.8.4.zip",
     "folderName": "kasimeka@typist",
-    "version": "1.8.3",
+    "version": "1.8.4",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/109631006?v=4",
     "description": "typist - a keyboard driven UX mod for the poker rogue-lite game Balatro",
@@ -3421,7 +3421,7 @@
     "author": "theAstra, Maxiss02",
     "downloadURL": "https://github.com/the-Astra/Maximus/releases/latest/download/Maximus-main.zip",
     "folderName": "theAstra@Maximus",
-    "version": "v1.2.6",
+    "version": "v1.2.7",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75325082?v=4",
     "description": "A vanilla-inspired mod that brings new ideas to Balatro",
@@ -4114,9 +4114,9 @@
       "Content"
     ],
     "author": "Survivalaiden",
-    "downloadURL": "https://github.com/survovoaneend/All-In-Jest/archive/refs/tags/0.6.2.zip",
+    "downloadURL": "https://github.com/survovoaneend/All-In-Jest/archive/refs/tags/0.6.3.zip",
     "folderName": "All-In-Jest",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/170060598?v=4",
     "description": null,
@@ -4799,7 +4799,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 548,
+    "stars": 549,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   }
