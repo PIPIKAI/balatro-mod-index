@@ -509,7 +509,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 835,
+    "stars": 837,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -1833,7 +1833,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 551,
+    "stars": 552,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2048,7 +2048,7 @@
     "author": "itayfeder",
     "downloadURL": "https://github.com/wingedcatgirl/Fusion-Jokers/archive/refs/heads/main.zip",
     "folderName": "Itayfeder@FusionJokers",
-    "version": "3563f46",
+    "version": "ec1b30d",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/69098783?v=4",
     "description": "Fuse jokers into special powerful versions!",
@@ -2161,7 +2161,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/204564124?v=4",
     "description": "Fantom's Preview is a QoL mod for balatro allowing for a preview of score before submitting the hand. ",
-    "stars": 19,
+    "stars": 20,
     "repo_id": 953423982,
     "github_repo_url": "https://github.com/Fantom-Balatro/Fantoms-Preview"
   },
@@ -2747,7 +2747,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "c2d5f90",
+    "version": "dcd96ea",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -3609,7 +3609,7 @@
     "version": "v0.5.2",
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/175903883?v=4",
-    "description": null,
+    "description": "A Balatro mod that adds new deckbuilding options",
     "stars": 11,
     "repo_id": 905443213,
     "github_repo_url": "https://github.com/spire-winder/Balatro-Draft"
@@ -3798,7 +3798,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 128,
+    "stars": 129,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
@@ -4022,7 +4022,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 136,
+    "stars": 137,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
