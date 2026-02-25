@@ -1833,7 +1833,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 552,
+    "stars": 551,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2267,7 +2267,7 @@
     "author": "kcgidw",
     "downloadURL": "https://github.com/kcgidw/kcvanilla/archive/refs/heads/master.zip",
     "folderName": "kcgidw@kcvanilla",
-    "version": "2875c28",
+    "version": "13c1228",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/11948774?v=4",
     "description": "Balatro mod. A small pack of plausible Jokers with a faithful art style. Intended to look and feel as vanilla as possible.",
@@ -2751,7 +2751,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 261,
+    "stars": 262,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -2894,7 +2894,7 @@
     "author": "Fennex",
     "downloadURL": "https://github.com/Trif3ctal/Lucky-Rabbit/archive/refs/heads/main.zip",
     "folderName": "LuckyRabbit",
-    "version": "f7767c5",
+    "version": "82b6721",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/133813395?v=4",
     "description": "Vanilla+ Balatro mod featuring new Jokers, blinds, and a new consumable type!",
@@ -3209,7 +3209,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 42,
+    "stars": 43,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
@@ -3798,7 +3798,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 129,
+    "stars": 130,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
