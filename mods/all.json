@@ -1209,9 +1209,9 @@
       "Joker"
     ],
     "author": "TheOneGoofAli",
-    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.12.4b.zip",
+    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.12.4b1.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "1.12.4b",
+    "version": "1.12.4b1",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
@@ -1505,9 +1505,9 @@
       "Content"
     ],
     "author": "Applemania",
-    "downloadURL": "https://github.com/AppleMania30/Maniatro/archive/refs/tags/4.5.0.zip",
+    "downloadURL": "https://github.com/AppleMania30/Maniatro/archive/refs/tags/5.0.0.zip",
     "folderName": "Maniatro",
-    "version": "4.5.0",
+    "version": "5.0.0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/214306463?v=4",
     "description": "Un mod caótico para Balatro.",
@@ -1801,11 +1801,11 @@
     "author": "Icecanno",
     "downloadURL": "https://github.com/Icecanno/Mobile_Balatro_Drag_Operation_Services/archive/refs/heads/main.zip",
     "folderName": "Icecanno@MobileBalatroDargOS",
-    "version": "946adf6",
+    "version": "7e7f110",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/149583568?v=4",
     "description": "Provide drag operation services for mobile Balatro",
-    "stars": 1,
+    "stars": 2,
     "repo_id": 1037209233,
     "github_repo_url": "https://github.com/Icecanno/Mobile_Balatro_Drag_Operation_Services"
   },
@@ -2116,7 +2116,7 @@
     "author": "CodeRevo",
     "downloadURL": "https://github.com/Cdrvo/Revos-Vault---Balatro-Mod/archive/refs/heads/main.zip",
     "folderName": "Revo@Revo'sVault",
-    "version": "c8a9261",
+    "version": "f1fc36e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/107761434?v=4",
     "description": "This mod adds various new things to the game",
@@ -2175,7 +2175,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 844,
+    "stars": 846,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -3352,7 +3352,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/34732735?v=4",
     "description": "a Balatro mod. See BLINDS while shopping",
-    "stars": 8,
+    "stars": 9,
     "repo_id": 966121941,
     "github_repo_url": "https://github.com/MeraGenio/UnBlind"
   },
@@ -4799,7 +4799,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 552,
+    "stars": 553,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   }
