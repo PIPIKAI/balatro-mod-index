@@ -2175,7 +2175,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 850,
+    "stars": 852,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2226,11 +2226,11 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "cca722a",
+    "version": "573851d",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
-    "stars": 29,
+    "stars": 28,
     "repo_id": 962042759,
     "github_repo_url": "https://github.com/lord-ruby/Entropy"
   },
@@ -2391,7 +2391,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": "A Balatro mod that handles texture packs",
-    "stars": 43,
+    "stars": 44,
     "repo_id": 879950776,
     "github_repo_url": "https://github.com/Eremel/Malverk"
   },
@@ -2816,7 +2816,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 103,
+    "stars": 104,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -3425,7 +3425,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75325082?v=4",
     "description": "A vanilla-inspired mod that brings new ideas to Balatro",
-    "stars": 21,
+    "stars": 22,
     "repo_id": 909135159,
     "github_repo_url": "https://github.com/the-Astra/Maximus"
   },
@@ -4061,7 +4061,7 @@
     "author": "Kars, sup3p",
     "downloadURL": "https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-/archive/refs/heads/main.zip",
     "folderName": "Kars&sup3p@HandsomeDevils",
-    "version": "733e85c",
+    "version": "7d109bc",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/104784206?v=4",
     "description": null,
@@ -4693,7 +4693,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/108153379?v=4",
     "description": "A mod cokeblock (and friends) are developing",
-    "stars": 1,
+    "stars": 0,
     "repo_id": 1012428379,
     "github_repo_url": "https://github.com/cokeblock/Cokelatro"
   },
@@ -4744,7 +4744,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200743257?v=4",
     "description": "Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon",
-    "stars": 84,
+    "stars": 85,
     "repo_id": 811381103,
     "github_repo_url": "https://github.com/GitNether/paperback"
   },
