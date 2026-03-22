@@ -608,7 +608,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/204564124?v=4",
     "description": "Fantom's Preview is a QoL mod for balatro allowing for a preview of score before submitting the hand. ",
-    "stars": 19,
+    "stars": 20,
     "repo_id": 953423982,
     "github_repo_url": "https://github.com/Fantom-Balatro/Fantoms-Preview"
   },
@@ -1048,7 +1048,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/42326513?v=4",
     "description": "A repository to store my balatro mods sources and releases",
-    "stars": 0,
+    "stars": 1,
     "repo_id": 979017457,
     "github_repo_url": "https://github.com/gfreitash/balatro-mods"
   },
@@ -1209,9 +1209,9 @@
       "Joker"
     ],
     "author": "TheOneGoofAli",
-    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.13.0d.zip",
+    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.13.1.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "1.13.0d",
+    "version": "1.13.1",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
@@ -1251,7 +1251,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/42326513?v=4",
     "description": "A repository to store my balatro mods sources and releases",
-    "stars": 0,
+    "stars": 1,
     "repo_id": 979017457,
     "github_repo_url": "https://github.com/gfreitash/balatro-mods"
   },
@@ -1932,7 +1932,7 @@
     "author": "GhostSalt",
     "downloadURL": "https://github.com/GhostSalt/Phanta/archive/refs/heads/main.zip",
     "folderName": "Phanta",
-    "version": "a3ab561",
+    "version": "098c9f7",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/68542538?v=4",
     "description": "Ghost/spiritually-themed Balatro mod pack! Requires Flipbook, get it here: https://github.com/GhostSalt/Flipbook",
@@ -2175,7 +2175,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 861,
+    "stars": 862,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -2534,7 +2534,7 @@
     "author": "Aikoyori",
     "downloadURL": "https://github.com/Aikoyori/Balatro-Aikoyoris-Shenanigans/archive/refs/heads/stable.zip",
     "folderName": "Aikoyori@Aikoyoris-Shenanigans",
-    "version": "a593745",
+    "version": "d7c3687",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/12034280?v=4",
     "description": null,
@@ -2816,7 +2816,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 107,
+    "stars": 108,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -2930,7 +2930,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 139,
+    "stars": 140,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
@@ -4029,7 +4029,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/42326513?v=4",
     "description": "A repository to store my balatro mods sources and releases",
-    "stars": 0,
+    "stars": 1,
     "repo_id": 979017457,
     "github_repo_url": "https://github.com/gfreitash/balatro-mods"
   },
@@ -4413,7 +4413,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 132,
+    "stars": 135,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
