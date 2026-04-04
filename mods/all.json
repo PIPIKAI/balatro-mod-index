@@ -51,7 +51,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
-    "stars": 137,
+    "stars": 136,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
   },
@@ -403,7 +403,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/10442064?v=4",
     "description": "Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.",
-    "stars": 57,
+    "stars": 58,
     "repo_id": 762954783,
     "github_repo_url": "https://github.com/adambennett/Balatro-DeckCreator"
   },
@@ -1884,7 +1884,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 565,
+    "stars": 566,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -3238,7 +3238,7 @@
     "author": "theAstra, Maxiss02",
     "downloadURL": "https://github.com/the-Astra/Maximus/releases/latest/download/Maximus-main.zip",
     "folderName": "theAstra@Maximus",
-    "version": "v1.2.8c",
+    "version": "v1.2.9",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/75325082?v=4",
     "description": "A vanilla-inspired mod that brings new ideas to Balatro",
@@ -3260,7 +3260,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200743257?v=4",
     "description": "Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon",
-    "stars": 89,
+    "stars": 90,
     "repo_id": 811381103,
     "github_repo_url": "https://github.com/GitNether/paperback"
   },
@@ -3383,7 +3383,7 @@
     "author": "Ruby",
     "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
     "folderName": "Entropy",
-    "version": "bce9376",
+    "version": "dee6f4b",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/138878489?v=4",
     "description": "An extremely chaotic mod for balatro",
