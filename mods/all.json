@@ -265,7 +265,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 114,
+    "stars": 115,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -1863,9 +1863,9 @@
       "Joker"
     ],
     "author": "TheOneGoofAli",
-    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.13.1i.zip",
+    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.13.1j.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "1.13.1i",
+    "version": "1.13.1j",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
@@ -4116,7 +4116,7 @@
     "author": "Gfsgfs and EricTheToon",
     "downloadURL": "https://github.com/gfsgfsPunchlineGuy/Punchline/archive/refs/heads/main.zip",
     "folderName": "Punchline",
-    "version": "d668d64",
+    "version": "22caac5",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/208081287?v=4",
     "description": "A balatro mod in beta",
@@ -4607,7 +4607,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/109802119?v=4",
     "description": "Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).",
-    "stars": 34,
+    "stars": 33,
     "repo_id": 1036432227,
     "github_repo_url": "https://github.com/Danitskkj/Lost_Edition"
   },
