@@ -265,7 +265,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/35398172?v=4",
     "description": "A mod for Balatro which adds new Quality of Life controls and keybinds.",
-    "stars": 118,
+    "stars": 119,
     "repo_id": 839389723,
     "github_repo_url": "https://github.com/SleepyG11/HandyBalatro"
   },
@@ -470,7 +470,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/49078928?v=4",
     "description": "yahimod for Balatro",
-    "stars": 129,
+    "stars": 130,
     "repo_id": 981838510,
     "github_repo_url": "https://github.com/Yahiamice/yahimod-balatro"
   },
@@ -655,7 +655,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/13772405?v=4",
     "description": "Yu-Gi-Oh! Mod for Balatro",
-    "stars": 41,
+    "stars": 40,
     "repo_id": 924306936,
     "github_repo_url": "https://github.com/nh6574/JoyousSpring"
   },
@@ -1294,7 +1294,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 67,
+    "stars": 68,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
@@ -1534,7 +1534,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/34732735?v=4",
     "description": "a Balatro mod. See BLINDS while shopping",
-    "stars": 9,
+    "stars": 10,
     "repo_id": 966121941,
     "github_repo_url": "https://github.com/MeraGenio/UnBlind"
   },
@@ -1554,7 +1554,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "A mod to enhance high-scoring runs",
-    "stars": 142,
+    "stars": 143,
     "repo_id": 802280847,
     "github_repo_url": "https://github.com/MathIsFun0/Talisman"
   },
@@ -1943,7 +1943,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 582,
+    "stars": 583,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -2199,7 +2199,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
     "description": "Mod Developer Chaos",
-    "stars": 58,
+    "stars": 59,
     "repo_id": 1025716679,
     "github_repo_url": "https://github.com/the-Astra/Hot-Potato"
   },
@@ -2328,7 +2328,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 889,
+    "stars": 891,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
@@ -3268,7 +3268,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 61,
+    "stars": 62,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -3604,7 +3604,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/55254209?v=4",
     "description": "Quality of life mod for Balatro",
-    "stars": 85,
+    "stars": 86,
     "repo_id": 825157359,
     "github_repo_url": "https://github.com/OceanRamen/Saturn"
   },
@@ -4006,7 +4006,7 @@
     "author": "Inky 'Ivory' Enby, PotatoNerd",
     "downloadURL": "https://github.com/InkyEnby/ParadoxicalPoker/releases/latest/download/ParadoxicalPoker.zip",
     "folderName": "ParadoxicalPoker",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/210619393?v=4",
     "description": "My Peak Balatro Mod",
@@ -4213,7 +4213,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/194646151?v=4",
     "description": null,
-    "stars": 9,
+    "stars": 10,
     "repo_id": 915501610,
     "github_repo_url": "https://github.com/EricTheToon/Fortlatro"
   },
@@ -4271,7 +4271,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/60699143?v=4",
     "description": "Bunch of stuff I've modded into Balatro",
-    "stars": 32,
+    "stars": 33,
     "repo_id": 786211749,
     "github_repo_url": "https://github.com/SDM0/SDM_0-s-Stuff"
   },
@@ -4420,7 +4420,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/56555833?v=4",
     "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)",
-    "stars": 57,
+    "stars": 58,
     "repo_id": 768830481,
     "github_repo_url": "https://github.com/Kooluve/Better-Mouse-And-Gamepad"
   },
@@ -4550,7 +4550,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/109631006?v=4",
     "description": "typist - a keyboard driven UX mod for the poker rogue-lite game Balatro",
-    "stars": 24,
+    "stars": 25,
     "repo_id": 937939564,
     "github_repo_url": "https://github.com/kasimeka/balatro-typist-mod"
   },
@@ -6033,7 +6033,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/9063141?v=4",
     "description": null,
-    "stars": 65,
+    "stars": 66,
     "repo_id": 839008588,
     "github_repo_url": "https://github.com/Eremel/Galdur"
   },
