@@ -85,7 +85,7 @@
     "author": "George The Rat",
     "downloadURL": "https://github.com/GeorgeTheRat/BundlesOfFun/archive/refs/heads/main.zip",
     "folderName": "George-The-Rat@Bundles-Of-Fun",
-    "version": "a44b53c",
+    "version": "53e426a",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/226023234?v=4",
     "description": null,
@@ -1628,7 +1628,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/89804482?v=4",
     "description": null,
-    "stars": 17,
+    "stars": 18,
     "repo_id": 951435861,
     "github_repo_url": "https://github.com/SylviBlossom/Banner"
   },
@@ -1757,7 +1757,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 62,
+    "stars": 63,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -2063,9 +2063,9 @@
       "Joker"
     ],
     "author": "TheOneGoofAli",
-    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.14.1d.zip",
+    "downloadURL": "https://github.com/TheOneGoofAli/TOGAPackBalatro/archive/refs/tags/1.14.1e.zip",
     "folderName": "TOGAPack@TheOneGoofAli",
-    "version": "1.14.1d",
+    "version": "1.14.1e",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/1346412?v=4",
     "description": "A personal timewaster project that is a mod for Balatro.",
@@ -3516,7 +3516,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/51133685?v=4",
     "description": "CardSleeves Balatro Mod",
-    "stars": 126,
+    "stars": 127,
     "repo_id": 825315947,
     "github_repo_url": "https://github.com/larswijn/CardSleeves"
   },
@@ -4747,7 +4747,7 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "81ba225",
+    "version": "de8b80d",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
@@ -5083,7 +5083,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod with quality of life deck & UI optimizations",
-    "stars": 70,
+    "stars": 72,
     "repo_id": 824175635,
     "github_repo_url": "https://github.com/stupxd/Cartomancer"
   },
@@ -5396,7 +5396,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
     "description": "An unbalanced Balatro mod",
-    "stars": 586,
+    "stars": 588,
     "repo_id": 774974690,
     "github_repo_url": "https://github.com/MathIsFun0/Cryptid"
   },
@@ -5604,7 +5604,7 @@
     "automatic-version-check": false,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/28330882?v=4",
     "description": "An in-game clock mod for Balatro",
-    "stars": 23,
+    "stars": 24,
     "repo_id": 928692083,
     "github_repo_url": "https://github.com/Breezebuilder/SystemClock"
   },
@@ -5807,7 +5807,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/193592290?v=4",
     "description": "A Balatro Modding Framework",
-    "stars": 897,
+    "stars": 899,
     "repo_id": 727742435,
     "github_repo_url": "https://github.com/Steamodded/smods"
   },
