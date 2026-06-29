@@ -1,142 +1,197 @@
 # Balatro Mod Index Guide
+
 ![Balatro Image](https://github.com/skyline69/balatro-mod-index/blob/main/media/Balatro.jpg?raw=true)
-This guide explains how to structure and publish your Balatro mods in the *Balatro Mod Index* repository. Follow the instructions below carefully to ensure your mod is properly added.
 
-## Directory Structure
+This repository indexes Balatro mods for use in Balatro Mod Manager.
+Follow this guide to submit mods that pass validation quickly.
 
-Your mod should have the following structure inside the `mods/` directory:
-- mods/
-    - Author@Modname/
-        - thumbnail.jpg (optional but preferred)
-        - description.md (required)
-        - meta.json (required)
+## Want to upload a new mod?
 
-### Example
-For a mod titled "Pokermon" by "InertSteak":
+First, check the information below for what to submit, then use the [BMI Submission Helper](https://bmi-helper.dasguney.com/) to easily upload new Mods to the index!
+After the PR has been made, Reviewers will check if the Submission is safe and ready to merge and your Mod will be on the Index in no time!
 
-- mods/
-    - InertSteak@Pokermon/
-        - thumbnail.jpg
-        - description.md
-        - meta.json
+**(Make sure to read this entire file for help so you don't open an issue for something resolved here)**
 
-## Required Files
 
-### 1. description.md
-A markdown file describing your mod's features, installation steps, and any additional details you wish to share.
+## `meta.json` Fields
 
-### 2. meta.json
-This file stores essential metadata in JSON format. **Make sure you adhere to the valid categories and mod-loader options.** Below is an example:
+Example:  
+(Don't write whats in red! Even though this is a manual step the fields here are basically the same if you're doing this via the website.)
 ```json
 {
-  "title": "Extended Cards",
-  "requires-steamodded": true,
-  "requires-talisman": false,
-  "categories": ["Content"],
-  "author": "Joe Mama",
-  "repo": "https://github.com/joemama/extended-cards",
-  "downloadURL": "https://github.com/joemama/extended-cards/releases/latest/download/extended-cards.zip",
-  "folderName": "ExtendedCards",
-  "version": "1.0.0",
-  "automatic-version-check": true
+  "title": "Extended Cards", -- The name of your mod that'll appear on the mod manager.
+  "requires-steamodded": true, -- Does the mod require the steamodded API?
+  "requires-talisman": false, -- Does the mod require the talisman API? (talisman adds exponential mult and chips!)
+  "categories": ["Content"], -- Table of categories (example: ["Content", "Joker"] ect..)
+  "author": "Joe Mama", -- The person who made the mod, will appear on the manager.
+  "repo": "https://github.com/joemama/extended-cards", -- The repo where the mod is released.
+  "downloadURL": "https://github.com/joemama/extended-cards/releases/latest/download/extended-cards.zip", -- Refer to "Download URL Rules"
+  "folderName": "ExtendedCards", -- Optional, the name of the folder in the balatro/mods folder.
+  "version": "1.0.0", -- The current version of your mod.
+  "automatic-version-check": true -- Whether to automatically update the version (refer to "Automatic Version Check Rules" for more info)
 }
-
 ```
-- **title**: The name of your mod.
-- **requires-steamodded**: If your mod requires the [Steamodded](https://github.com/Steamodded/smods) mod loader, set this to `true`.
-- **requires-talisman**: If your mod requires the [Talisman](https://github.com/MathIsFun0/Talisman) mod, set this to `true`.
-- **categories**: Must contain at least one of `Content`, `Joker`, `Quality of Life`, `Technical`, `Miscellaneous`, `Resource Packs` or `API`.
-- **author**: Your chosen username or handle.
-- **repo**: A link to your mod's repository.
-- **downloadURL**: A direct link to the latest version of your released mod. Using an automatic link to the [latest release](https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases) is preferred.
-- **version**: The version number of the mod files available at `downloadURL`.
-- *folderName*: (*Optional*) The name for the mod's install folder. This must be **unique**, and cannot contain characters `<` `>` `:` `"` `/` `\` `|` `?` `*`
-- *automatic-version-check*: (*Optional* but **recommended**) Set to `true` to let the Index automatically update the `version` field.
-    - Updates happen once every hour, by checking either your mod's latest Release, latest commit, or specific release tag, depending on the `downloadURL`.
-    - Enable this option **only** if your `downloadURL` points to an automatically updating source:
-        - **Latest release** (recommended): Using a link to [releases/latest](https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases) 
-        - **Latest commit**: Using a link to the [latest commit (HEAD)](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#source-code-archive-urls)
-- *fixed-release-tag-updates*: (*Optional*) Set to `true` if your mod uses a fixed release tag and still wants to auto-update when modifying the underlying files. This can be useful for repositories with multiple mods, allowing you to have a release tag dedicated for each mod where you upload new versions. Note that:
-  - Requires `automatic-version-check` to also be set to `true`.
-  - The `downloadURL` must point to a specific release asset using a link such as `https://github.com/author/repo/releases/download/my-release-tag/mod.zip`. 
- 
- 
+Required fields:
 
-### 3. thumbnail.jpg (Optional)
-If included, this image will appear alongside your mod in the index. Maximum and recommended size is 1920x1080 pixels.
+- `title` (string)
+- `requires-steamodded` (boolean)
+- `requires-talisman` (boolean)
+- `categories` (array, at least 1)
+- `author` (string)
+- `repo` (valid URL)
+- `downloadURL` (valid URL)
+- `version` (string)
 
-## How to Publish
+Optional fields:
 
-1. **Fork the Balatro Mod Index Repository**  
-   Go to the main Balatro Mod Index repository on GitHub and click **Fork** to create your own copy.
+- `folderName` (string, unique, no invalid filename chars)
+- `automatic-version-check` (boolean)
+- `fixed-release-tag-updates` (boolean)
 
-2. **Create a New Mod Directory**  
-   Under `mods/`, add a folder named `Author@Modname` (e.g., `InertSteak@Pokermon`).  
-   Inside it, include:  
-   - `description.md` (**required**)  
-   - `meta.json` (**required**)  
-   - `thumbnail.jpg` (optional but recommended)
+Allowed category values:
 
-3. **Write Your Mod Description**  
-   Use `description.md` to explain what your mod does, key features, and any usage instructions.
+- `Content` - The mod adds content to the game.
+- `Joker` - The mod has a relation to jokers.
+- `Quality of Life` - The mod adds features to improve the balatro experience.
+- `Technical` - The mod changes the game in technical ways.
+- `Miscellaneous` - The mod doesn't fit into any of these categories.
+- `Resource Packs` - The mod changes the look of the game.
+- `API` - The mod adds features to make coding another mod easier.
+- `Extension` - The mod is an extension of another mod.
 
-4. Populate `meta.json`
+## Download URL Rules (Important)
 
-5. **Commit and Push**  
-Commit your directory and files, then push them to your fork.
+`downloadURL` must resolve to a real downloadable file (zip/tar/etc).
+Do not use repository or release HTML page URLs.
 
-6. **Open a Pull Request (PR)**  
-From your fork, open a Pull Request to the main repository's default branch (e.g., `main`):  
-- **Title**: *"Add Author@Modname mod"*  
-- **Description**: Briefly describe your mod's purpose or any extra details.
+### Accepted examples
 
-7. **Automated Checks**  
-As soon as you open the PR, GitHub Actions runs the automated checks to ensure your mod meets the required standards. If any checks fail, you will need to address the issues before your PR can be merged.
+- `https://github.com/<owner>/<repo>/releases/latest/download/mod.zip` (You must upload it using [This button)](https://github.com/user-attachments/assets/da972ca3-3dec-47f6-b786-a34f6894e687)
+- `https://github.com/<owner>/<repo>/archive/refs/heads/main.zip` (This mimics pressing the green "code" button then clicking "download zip"!)
+- `https://github.com/<owner>/<repo>/archive/refs/heads/master.zip` (This mimics pressing the green "code" button then clicking "download zip"!)
+- `https://github.com/<owner>/<repo>/releases/download/<tag>/mod.zip` (You must upload it using [This button)](https://github.com/user-attachments/assets/da972ca3-3dec-47f6-b786-a34f6894e687)
 
-8. **Manual Review**  
-A project maintainer or designated reviewer will review your PR to confirm it meets ethical, technical, and overall quality standards.
+### Rejected examples
 
-9. **Merge**  
-Once the automated checks and manual review pass, your PR will be merged. Your mod then becomes part of the **Balatro Mod Index**!
+- `https://github.com/<owner>/<repo>` - This doesn't download anything.
+- `https://github.com/<owner>/<repo>/tree/main` - This doesn't download anything.
+- `https://github.com/<owner>/<repo>/blob/main/mod.zip` - This is a blob, not accepted.
+- `https://github.com/<owner>/<repo>/releases/latest` - This doesn't download anything.
+- `https://github.com/<owner>/<repo>/releases/tag/v1.2.3` - This doesn't download anything.
 
-Once your submission is reviewed and approved, your mod will be added to the Balatro Mod Index!
+## Automatic Version Check Rules
 
----
+`automatic-version-check` is optional but recommended.
+
+Enable it only if `downloadURL` points to an automatically updating source:
+
+- If the link has `releases/latest`
+- If the link has `archive/refs/heads/main.zip` or `archive/refs/heads/master.zip`
+
+If your `downloadURL` uses a fixed release tag asset like:
+
+- `https://github.com/<owner>/<repo>/releases/download/<tag>/mod.zip`
+
+then you must set:
+
+- `automatic-version-check: true`
+- `fixed-release-tag-updates: true`
+
+This is required to avoid accidental update freeze behavior.
+
+## Description Suggestions
+- Make sure to include a summary of your mod with proper formatting, markdown is supported.
+- Please, do not just write "My cool balatro mod that adds 10 jokers".
+- Examples: [1](https://github.com/skyline69/balatro-mod-index/blob/main/mods/ABGamma%40Brainstorm-Rerolled/description.md), [2](https://github.com/skyline69/balatro-mod-index/blob/main/mods/Alex%40Mayhem/description.md), if your mod doesn't need much explaining you can also try something like [this](https://github.com/skyline69/balatro-mod-index/blob/main/mods/Virtualized%40Multiplayer/description.md), if your mod doesn't add many jokers you can also explain them all like [this](https://github.com/skyline69/balatro-mod-index/blob/main/mods/pawPatoes%40roze/description.md)
+
+
+## Thumbnail Rules
+
+- Thumbnail is optional.
+- If included, filename must be exactly `thumbnail.jpg`.
+- JPEG content only (`image/jpeg`).
+- Recommended max dimensions: `1920x1080`.
+- If it isn't accepted, make it a jpeg using any image editing software. (yes, even paint can do it)
+
+## How To Submit
+### Disclaimer
+* After submitting a mod, please make sure to check github often to see if your mod had an issue/got rejected!
+
+Automatic way: https://bmi-helper.dasguney.com/  
+
+Manual:
+1. Fork this repository.
+2. Add your mod folder inside the "mods" directory using the format: `AuthorName@Modname/`
+3. Add `description.md` and `meta.json`.
+4. Optionally add `thumbnail.jpg`.
+5. Commit and push.
+6. Open a PR to `main` after reading and verifying the quick checklist.
+
+## Quick Checklist
+
+Before opening a PR, make sure all of the following are true:
+
+- Your mod folder location is in the `mods` folder, and your mod folder name is `AuthorName@ModName`
+- `description.md` exists
+- `meta.json` exists and is valid JSON
+- Thumbnail is optional, but if present it must be called `thumbnail.jpg` (JPEG only)
+- `downloadURL` points directly to a downloadable file/archive (not an HTML page)
+- `categories` only uses allowed values
+- `version` is present and matches the downloadable artifact
+
+## Required Structure
+
+```text
+mods/
+  AuthorName@Modname/
+    description.md       # required
+    meta.json            # required
+    thumbnail.jpg        # optional, JPG only
+```
+
+
+## PR Title Suggestion  
+(Ignore this if you're doing this via the website!)
+
+Use a clear title for your pull request, for example:
+
+- `Add AuthorName@Modname mod`
+
+## Validation and Review
+
+Your PR is checked automatically by GitHub Actions.
+A maintainer then reviews:
+
+- metadata correctness
+- download URL validity
+- update logic consistency
+- submission safety/policy compliance
 
 ## Submission Policy
 
-All submissions must be safe, legal, and appropriate for a general audience. This means:
-1. No mods containing malware or spyware.
+All submissions must be safe, legal, and appropriate for a general audience.
 
-2. No copyrighted content that is used without permission.
-   
-3. No hateful, discriminatory, or offensive material.
+Not allowed:
 
-By submitting your own mod to the *Balatro Mod Index*, you are agreeing to allow your mod to be displayed in and redistributed by [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager/).
-If you would like your content to be removed from the *Balatro Mod Index* at any point, please create an [Issue](https://github.com/skyline69/balatro-mod-index/issues) or submit a [Pull Request](https://github.com/skyline69/balatro-mod-manager/pulls) with the relevant content deleted.
+1. Malware/spyware.
+2. Copyrighted content without permission.
+3. Hateful, discriminatory, or offensive material.
 
+By submitting a mod, you agree to allow it to be displayed in and redistributed by [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager/).
 
-### Third-Party Submissions
-Mods should ideally be submitted by their creators. If you would like to submit a mod on behalf of a mod's creator, please do so in a way that is considerate of the author, their creative works, and their time.
+If you want content removed later, open an [Issue](https://github.com/skyline69/balatro-mod-index/issues) or submit a PR that removes the content.
 
-Mods will only be accepted on the Balatro Mod Index if they have been released under a redistribution-friendly license (such as GPL, MIT, MPL or similar), or if the mod's authors have given explicit and public permission.
-It is strongly encouraged to ask for permission before submitting other's mods to the *Balatro Mod Index*, regardless of license.
+## Third-Party Submissions
 
-**Before submitting mods created by other people:**
-1. Check that the mod is **working** on the most current version of the game, and has not been **deprecated** or **abandoned**.
+Prefer submissions by the original creator.
+If you submit someone else's mod, verify all of the following:
 
-2. Check that the mod's **license** allows **redistribution** by third parties - otherwise, **ask permission** from the creator.
-   
-3. Check the mod's requirements for **Steamodded** and **Talisman**, along with any other dependencies that should be listed in the description.
-   
-4. Check if the mod requires a specific installation **folder name**, and set the `folderName` parameter accordingly.
-   
-5. Check that the mod doesn't have any other special or unusual **installation requirements**.
-   
-6. Check if the mod has any **promotional images** that might be suitable for use as a **thumbnail**.
+1. Mod is still working and not abandoned/deprecated.
+2. License allows redistribution, or explicit public permission exists.
+3. Dependencies are correctly represented (`requires-steamodded`, `requires-talisman`, and other requirements in `description.md`).
+4. Required install folder behavior is reflected by `folderName` when needed.
+5. Any special install instructions are documented in `description.md`.
 
-When submitting a mod on behalf of someone else, please link to the latest **Release** whenever possible rather than the latest repository HEAD.
-This helps to keep modded Balatro stable for more players, by only using tested releases instead of potentially untested in-development builds.
+For third-party submissions, prefer stable release links instead of volatile dev snapshots whenever possible.
 
-
-Thanks for contributing to the *Balatro Mod Index* and helping the community grow! 
+Thanks for contributing to Balatro Mod Index.
