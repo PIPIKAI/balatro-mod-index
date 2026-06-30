@@ -10,11 +10,11 @@
     "author": "InertSteak",
     "downloadURL": "https://github.com/InertSteak/Pokermon/archive/refs/heads/main.zip",
     "folderName": "Pokermon",
-    "version": "141d300",
+    "version": "ac237ed",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/183861271?v=4",
     "description": "A full content Balatro mod where every joker is a Pokemon.",
-    "stars": 292,
+    "stars": 294,
     "repo_id": 867801260,
     "github_repo_url": "https://github.com/InertSteak/Pokermon"
   },
@@ -184,6 +184,24 @@
     "github_repo_url": "https://github.com/HuyTheKiller/Sagatro"
   },
   {
+    "name": "Flipbook",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API"
+    ],
+    "author": "GhostSalt",
+    "downloadURL": "https://github.com/GhostSalt/Flipbook/archive/refs/heads/main.zip",
+    "folderName": "Flipbook",
+    "version": "3e96386",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/68542538?v=4",
+    "description": "An animation API for mods that support it! Check the documentation on the repository for more information.",
+    "stars": 0,
+    "repo_id": 1153127795,
+    "github_repo_url": "https://github.com/GhostSalt/Flipbook"
+  },
+  {
     "name": "Too Many Jokers",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -236,6 +254,45 @@
     "stars": 0,
     "repo_id": 1011762821,
     "github_repo_url": "https://github.com/Finnaware/Kyu-latro"
+  },
+  {
+    "name": "RedPrint",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous",
+      "Resource Packs"
+    ],
+    "author": "pawPatoes",
+    "downloadURL": "https://github.com/pawPatoes/RedPrint/releases/latest/download/redprint.zip",
+    "folderName": "pawPatoes@RedPrint",
+    "version": "1.0",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "Replaces blueprint with redprint",
+    "stars": 0,
+    "repo_id": 1262213346,
+    "github_repo_url": "https://github.com/pawPatoes/RedPrint"
+  },
+  {
+    "name": "Ghost Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "GhostSalt",
+    "downloadURL": "https://github.com/GhostSalt/GhostCards/archive/refs/heads/master.zip",
+    "folderName": "Ghost Cards",
+    "version": "ded5941",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/68542538?v=4",
+    "description": "A mod that adds cards with my OC Ghost on them! Includes a deck skin, and if you have Malverk, Joker skins for some other mods..",
+    "stars": 0,
+    "repo_id": 915940303,
+    "github_repo_url": "https://github.com/GhostSalt/GhostCards"
   },
   {
     "name": "Goonlatro",
@@ -396,7 +453,7 @@
     "author": "KaviD",
     "downloadURL": "https://github.com/KaviD-115/Worlds-Collide/archive/refs/heads/main.zip",
     "folderName": "KaviD@WorldsCollide",
-    "version": "2d0642a",
+    "version": "ed1a912",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/178822402?v=4",
     "description": "A Vanilla Balanced mix of original and crossover content from iconic videogames.",
@@ -486,9 +543,9 @@
       "Content"
     ],
     "author": "Ortalab Team",
-    "downloadURL": "https://github.com/EremelMods/Ortalab/releases/latest/download/Ortalab-main.zip",
+    "downloadURL": "https://github.com/EremelMods/Ortalab/archive/refs/heads/main.zip",
     "folderName": "Ortalab",
-    "version": "1.0.1c",
+    "version": "e85d828",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/223660149?v=4",
     "description": null,
@@ -644,6 +701,24 @@
     "github_repo_url": "https://github.com/nyanko-army-knife/nyankatro"
   },
   {
+    "name": "Decks Aplenty",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "DuplexME",
+    "downloadURL": "https://github.com/BadAlchemyst/Decks-Aplenty/releases/download/v1.0.0/Decks.Aplenty.main.zip",
+    "folderName": "DuplexME@Decks-Aplenty",
+    "version": "20260626_202202",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/297067113?v=4",
+    "description": "A balatro mod that adds nearly 30 new Decks. To be quite honest, they're not really all that balanced; but that's on purpose.. These are for fun, and whimsy. They aren't quite Cryptid levels of unbalanced, but they are, yes, unbalanced.",
+    "stars": 0,
+    "repo_id": 1280962806,
+    "github_repo_url": "https://github.com/BadAlchemyst/Decks-Aplenty"
+  },
+  {
     "name": "Gem-Pokermon",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -663,6 +738,24 @@
     "github_repo_url": "https://github.com/TGem7/Gem-Pokermon"
   },
   {
+    "name": "Stocking Stuffer",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "The Potato Patch Events Group",
+    "downloadURL": "https://github.com/Balatro-Potato-Patch/Stocking-Stuffer/archive/refs/tags/v1.1.0-QuickPatch-1.zip",
+    "folderName": "Balatro-Potato-Patch@StockingStuffer",
+    "version": "v1.1.0-QuickPatch-1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
+    "description": "A small Balatro modjam mod about opening presents",
+    "stars": 3,
+    "repo_id": 1092188353,
+    "github_repo_url": "https://github.com/Balatro-Potato-Patch/Stocking-Stuffer"
+  },
+  {
     "name": "Hatchet",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -680,6 +773,43 @@
     "stars": 1,
     "repo_id": 1074440129,
     "github_repo_url": "https://github.com/PlasmaPhrase/Hatchet"
+  },
+  {
+    "name": "Porkify",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "PorkyLIVE",
+    "downloadURL": "https://github.com/PorkifyNET/porkify/archive/refs/heads/main.zip",
+    "folderName": "PorkyLIVE@Porkify",
+    "version": "df5c418",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/178412443?v=4",
+    "description": "Balatro Mod adding Jokers, Blinds, Challenges and more that are fun, but not too broken.",
+    "stars": 1,
+    "repo_id": 1227706235,
+    "github_repo_url": "https://github.com/PorkifyNET/porkify"
+  },
+  {
+    "name": "SweetShop",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "bus693",
+    "downloadURL": "https://github.com/bus693/sweet-shop/archive/refs/heads/main.zip",
+    "folderName": "bus693@SweetShop",
+    "version": "835e5ae",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/289271467?v=4",
+    "description": "Labels for your near-vanilla Balatro mods",
+    "stars": 0,
+    "repo_id": 1280914157,
+    "github_repo_url": "https://github.com/bus693/sweet-shop/"
   },
   {
     "name": "BalatroGoldFinger",
@@ -754,6 +884,24 @@
     "stars": 12,
     "repo_id": 966121941,
     "github_repo_url": "https://github.com/MeraGenio/UnBlind"
+  },
+  {
+    "name": "Wormhole",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "The Potato Patch Events Group",
+    "downloadURL": "https://github.com/Balatro-Potato-Patch/Wormhole/archive/refs/tags/v1.0.8b.zip",
+    "folderName": "Balatro-Potato-Patch@Wormhole",
+    "version": "v1.0.8b",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
+    "description": "The mod created during MurphyObv's Sealab Joker Jam!",
+    "stars": 31,
+    "repo_id": 1164190751,
+    "github_repo_url": "https://github.com/Balatro-Potato-Patch/Wormhole"
   },
   {
     "name": "Save Rewinder",
@@ -1072,6 +1220,24 @@
     "github_repo_url": "https://github.com/ABGamma/Brainstorm-Rerolled/"
   },
   {
+    "name": "BalatroMuteUnFocus",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "akashrtd",
+    "downloadURL": "https://github.com/akashrtd/BalatroMuteUnFocus/releases/download/v1.0.0/BalatroMuteUnFocus-v1.0.0.zip",
+    "folderName": "akashrtd@BalatroMuteUnFocus",
+    "version": "20260529_142157",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/93878935?v=4",
+    "description": "A lightweight Balatro mod that mutes all audio when the game window loses focus and restores it when you switch back.",
+    "stars": 0,
+    "repo_id": 1253104991,
+    "github_repo_url": "https://github.com/akashrtd/BalatroMuteUnFocus"
+  },
+  {
     "name": "SystemClock",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -1149,6 +1315,25 @@
     "stars": 3,
     "repo_id": 959528275,
     "github_repo_url": "https://github.com/wingedcatgirl/Go-To-Bed--Minty"
+  },
+  {
+    "name": "Springfield",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Jammbo",
+    "downloadURL": "https://github.com/the-2nd-olsberg/BalatroSpringfield/archive/refs/heads/master.zip",
+    "folderName": "Springfield",
+    "version": "de560de",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/224610509?v=4",
+    "description": null,
+    "stars": 0,
+    "repo_id": 1179983350,
+    "github_repo_url": "https://github.com/the-2nd-olsberg/BalatroSpringfield"
   },
   {
     "name": "AMY's Waifu",
@@ -1297,6 +1482,25 @@
     "stars": 3,
     "repo_id": 928478062,
     "github_repo_url": "https://github.com/TamerSoup625/balatro-highest-priestess"
+  },
+  {
+    "name": "Eternal Stake",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Miscellaneous"
+    ],
+    "author": "Craigums",
+    "downloadURL": "https://github.com/craigsidcarlson/eternal-balatro/archive/refs/heads/main.zip",
+    "folderName": "Craigums@EternalStake",
+    "version": "9cff90e",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/2358954?v=4",
+    "description": "Balatro mod to add a new eternal white stake ",
+    "stars": 0,
+    "repo_id": 1218375229,
+    "github_repo_url": "https://github.com/craigsidcarlson/eternal-balatro"
   },
   {
     "name": "Starrailevents",
@@ -1464,6 +1668,24 @@
     "github_repo_url": "https://github.com/HazzaMC/AJollyExpansion"
   },
   {
+    "name": "Judgement ORDER",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Techninja119",
+    "downloadURL": "https://github.com/techninja119/Judgesments-order/archive/refs/heads/main.zip",
+    "folderName": "Techninja119@Judgement-ORDER",
+    "version": "e378221",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/119437238?v=4",
+    "description": "my mod for balatro",
+    "stars": 0,
+    "repo_id": 1268790955,
+    "github_repo_url": "https://github.com/techninja119/Judgesments-order"
+  },
+  {
     "name": "Troubadour",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -1516,6 +1738,24 @@
     "stars": 1,
     "repo_id": 1001619543,
     "github_repo_url": "https://github.com/acidflow-balatro/MagicSort"
+  },
+  {
+    "name": "Fools-Pack",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content"
+    ],
+    "author": "Kitsunare",
+    "downloadURL": "https://github.com/amyamethyst404/FoolsPack-Balatro-Mod/releases/latest/download/foolspack.zip",
+    "folderName": "FoolsPack-Balatro-Mod",
+    "version": "Foolspack1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/259985005?v=4",
+    "description": "A semi-large mod for balatro that adds over 70 jokers and an entire new consumable pack! as well as a few decks and some other small additions here and there.",
+    "stars": 0,
+    "repo_id": 1151851888,
+    "github_repo_url": "https://github.com/amyamethyst404/FoolsPack-Balatro-Mod"
   },
   {
     "name": "Divvy's Preview",
@@ -1613,6 +1853,25 @@
     "stars": 2,
     "repo_id": 1072146334,
     "github_repo_url": "https://github.com/LFMoth/Requiem"
+  },
+  {
+    "name": "Hebrew Translation / תרגום עברי",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Technical",
+      "Quality of Life"
+    ],
+    "author": "HenHat583",
+    "downloadURL": "https://github.com/HenHat583/HebrewBalatro/releases/download/v1.0.13/HebrewBalatro-1.0.13.zip",
+    "folderName": "HebrewBalatro",
+    "version": "20260622_075643",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/134195656?v=4",
+    "description": "Full Hebrew RTL translation mod for Balatro",
+    "stars": 0,
+    "repo_id": 1242938539,
+    "github_repo_url": "https://github.com/HenHat583/HebrewBalatro"
   },
   {
     "name": "SparkLatro",
@@ -1763,6 +2022,25 @@
     "github_repo_url": "https://github.com/snowylight/DatealiveBalatro"
   },
   {
+    "name": "Marine Foolin'",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Marina",
+    "downloadURL": "https://github.com/marinaposting/MarineFoolin/releases/latest/download/Marina@Marine-Foolin.zip",
+    "folderName": "Marina@MarineFoolin",
+    "version": "0.1.3",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/135920061?v=4",
+    "description": "An ocean themed mod for balatro (WIP BETA)",
+    "stars": 0,
+    "repo_id": 1236182337,
+    "github_repo_url": "https://github.com/marinaposting/MarineFoolin"
+  },
+  {
     "name": "BalaQuints",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -1792,7 +2070,7 @@
     "author": "BakersDozenBagels",
     "downloadURL": "https://github.com/BakersDozenBagels/BalatroBakery/archive/refs/heads/main.zip",
     "folderName": "BakersDozenBagels@Bakery",
-    "version": "fa10610",
+    "version": "a50b509",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/59811114?v=4",
     "description": "A miscellaneous Balatro mod",
@@ -1818,6 +2096,25 @@
     "stars": 1,
     "repo_id": 996696435,
     "github_repo_url": "https://github.com/energykid/SuperFine"
+  },
+  {
+    "name": "VanillaRedux",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "CyberGaster",
+    "downloadURL": "https://github.com/CyberGaster/VanillaRedux/releases/download/v1.0.1/VanillaRedux.zip",
+    "folderName": "CyberGaster@VanillaRedux",
+    "version": "20260522_144520",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/224419782?v=4",
+    "description": "Balance overhaul mod for Balatro",
+    "stars": 0,
+    "repo_id": 1229856157,
+    "github_repo_url": "https://github.com/CyberGaster/VanillaRedux"
   },
   {
     "name": "Flush Hotkeys",
@@ -2125,6 +2422,44 @@
     "github_repo_url": "https://github.com/balt-dev/Overstock"
   },
   {
+    "name": "Balatro Waves",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "FALATRO",
+    "downloadURL": "https://github.com/FALATRO/Balatro-Waves/archive/refs/heads/main.zip",
+    "folderName": "FALATRO@Balatro-Waves",
+    "version": "e536473",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/235200795?v=4",
+    "description": "This is a Balatro mod that adds many references to the popular gacha game Wuthering Waves. ",
+    "stars": 0,
+    "repo_id": 1070267574,
+    "github_repo_url": "https://github.com/FALATRO/Balatro-Waves"
+  },
+  {
+    "name": "Magician",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "dekta",
+    "downloadURL": "https://github.com/LowDelta/Magician/archive/refs/heads/main.zip",
+    "folderName": "Magician",
+    "version": "a837de5",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/94953635?v=4",
+    "description": "A balatro mod",
+    "stars": 0,
+    "repo_id": 1218466160,
+    "github_repo_url": "https://github.com/LowDelta/Magician/"
+  },
+  {
     "name": "Trance",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -2141,6 +2476,25 @@
     "stars": 22,
     "repo_id": 812718602,
     "github_repo_url": "https://github.com/MathIsFun0/Trance"
+  },
+  {
+    "name": "ULTRAKILL Face Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Miscellaneous",
+      "Resource Packs"
+    ],
+    "author": "JBOSS_64",
+    "downloadURL": "https://github.com/JBOSS-64/Ultrakill-Face-Cards-Mod/releases/latest/download/UltrakillFaceCards.zip",
+    "folderName": "JBOSS_64@ULTRAKILL-Face-Cards",
+    "version": "v1.0.0",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/151892928?v=4",
+    "description": "An ULTRAKILL card skin mod for Balatro",
+    "stars": 0,
+    "repo_id": 1209756561,
+    "github_repo_url": "https://github.com/JBOSS-64/Ultrakill-Face-Cards-Mod"
   },
   {
     "name": "Regals Mod",
@@ -2160,6 +2514,26 @@
     "stars": 0,
     "repo_id": 1006245123,
     "github_repo_url": "https://github.com/mpa-LHutchinson/Regals-Mod"
+  },
+  {
+    "name": "Lost Edition",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Quality of Life"
+    ],
+    "author": "ClickNoPaulo & Danitsdev",
+    "downloadURL": "https://github.com/danitsdev/Lost_Edition/releases/latest/download/Lost_Edition.zip",
+    "folderName": "Lost_Edition",
+    "version": "1.1.0",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/109802119?v=4",
+    "description": "Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).",
+    "stars": 33,
+    "repo_id": 1036432227,
+    "github_repo_url": "https://github.com/danitsdev/Lost_Edition"
   },
   {
     "name": "Balatro Producciones",
@@ -2254,6 +2628,25 @@
     "github_repo_url": "https://github.com/Icecanno/Mobile_Balatro_Drag_Operation_Services"
   },
   {
+    "name": "No More Shopping Simulator",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Technical"
+    ],
+    "author": "Joshi",
+    "downloadURL": "https://github.com/joshi-13/NoMoreShoppingSimulator/archive/refs/heads/main.zip",
+    "folderName": "Joshi@No-More-Shopping-Simulator",
+    "version": "f646a38",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/91480405?v=4",
+    "description": "A mod to reduce to amount of time spent in shop looking for certain cards",
+    "stars": 0,
+    "repo_id": 1268697671,
+    "github_repo_url": "https://github.com/joshi-13/NoMoreShoppingSimulator"
+  },
+  {
     "name": "DebugPlusPlus",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -2271,6 +2664,25 @@
     "stars": 7,
     "repo_id": 984017038,
     "github_repo_url": "https://github.com/Joglacraft/DebugPlusPlus"
+  },
+  {
+    "name": "Flushful",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Miscellaneous"
+    ],
+    "author": "Refractz",
+    "downloadURL": "https://github.com/Refractz/Flushful/releases/download/Beta/Flushful-beta.zip",
+    "folderName": "Refractz@Flushful",
+    "version": "20260503_223754",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/182431168?v=4",
+    "description": null,
+    "stars": 0,
+    "repo_id": 1227568212,
+    "github_repo_url": "https://github.com/Refractz/Flushful/"
   },
   {
     "name": "Sauce's Condiment Pack",
@@ -2491,6 +2903,24 @@
     "github_repo_url": "https://github.com/pinkmaggit-hub/Buffoonery"
   },
   {
+    "name": "Hanged Man",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Kusane Hexaku",
+    "downloadURL": "https://github.com/KusaneHexaku/Hanged-Man/archive/refs/heads/main.zip",
+    "folderName": "Kusane-Hexaku@Hanged-Man",
+    "version": "afabe86",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/52283992?v=4",
+    "description": "A general content mod for Balatro",
+    "stars": 1,
+    "repo_id": 1258447750,
+    "github_repo_url": "https://github.com/KusaneHexaku/Hanged-Man"
+  },
+  {
     "name": "Multiplayer",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -2506,7 +2936,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/206148545?v=4",
     "description": "A Multiplayer Mod for Balatro",
-    "stars": 312,
+    "stars": 313,
     "repo_id": 767213283,
     "github_repo_url": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer"
   },
@@ -2622,7 +3052,7 @@
     "github_repo_url": "https://github.com/Snoresville/snoresville_turbulent_jokers/"
   },
   {
-    "name": "Kloun",
+    "name": "Kloun DEMO",
     "requires-steamodded": true,
     "requires-talisman": false,
     "categories": [
@@ -2631,15 +3061,35 @@
       "Miscellaneous"
     ],
     "author": "Dogg Fly",
-    "downloadURL": "https://github.com/Dogg-Fly/Kloun/releases/latest/download/kloun.zip",
+    "downloadURL": "https://github.com/Dogg-Fly/Kloun-DEMO/releases/latest/download/kloun.zip",
     "folderName": "kloun",
-    "version": "v1.2.1",
+    "version": "0.1.0",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/219871281?v=4",
-    "description": "Balatro alternative universe",
+    "description": "A Balatro alternative universe",
     "stars": 0,
-    "repo_id": 1061487488,
-    "github_repo_url": "https://github.com/Dogg-Fly/Kloun"
+    "repo_id": 1163774630,
+    "github_repo_url": "https://github.com/Dogg-Fly/Kloun-DEMO"
+  },
+  {
+    "name": "Endless Chihuahuas",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "FloppaGuy",
+    "downloadURL": "https://github.com/TheFloppaGuy/Endless-Chihuahuas-/releases/download/v1.0.1/endlesschihuahua.3.zip",
+    "folderName": "FloppaGuy@Endless-Chihuahuas",
+    "version": "20260511_171650",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/283531724?v=4",
+    "description": "the dumbest, broken, janky mod for Balatro.",
+    "stars": 0,
+    "repo_id": 1235804106,
+    "github_repo_url": "https://github.com/TheFloppaGuy/Endless-Chihuahuas-/releases/download/v1.0.1/endlesschihuahua.3.zip"
   },
   {
     "name": "Glorplatro",
@@ -2827,6 +3277,24 @@
     "github_repo_url": "https://github.com/1Zoker/ZokersModMenu"
   },
   {
+    "name": "El super mod de mierda que nadie entiende (ni entenderan)",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "heyandresito",
+    "downloadURL": "https://github.com/dashandregeometry-dev/el-super-mod-estupido-que-nadie-entiende-ni-entendera-/archive/refs/heads/main.zip",
+    "folderName": "callalos",
+    "version": "76b27d6",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/231782374?v=4",
+    "description": null,
+    "stars": 0,
+    "repo_id": 1055177982,
+    "github_repo_url": "https://github.com/dashandregeometry-dev/el-super-mod-estupido-que-nadie-entiende-ni-entendera-"
+  },
+  {
     "name": "Multi Text Box",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -2902,6 +3370,24 @@
     "github_repo_url": "https://github.com/Noah-Bunis/FGCBalatro"
   },
   {
+    "name": "oops all paw's",
+    "requires-steamodded": false,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "pawPatoes",
+    "downloadURL": "https://github.com/pawPatoes/oops-all-paws/releases/latest/download/oops.all.paw.s.zip",
+    "folderName": "pawPatoes@oops_paws",
+    "version": "1.0.0",
+    "automatic-version-check": false,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "Replaces oops all 6's with me :D (Requires malverk)",
+    "stars": 0,
+    "repo_id": 1222736820,
+    "github_repo_url": "https://github.com/pawPatoes/oops-all-paws"
+  },
+  {
     "name": "Cartomancer",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -2966,7 +3452,7 @@
     "author": "frostice482",
     "downloadURL": "https://github.com/frostice482/amulet/archive/refs/heads/main.zip",
     "folderName": "Amulet",
-    "version": "6102cae",
+    "version": "c032639",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/92860250?v=4",
     "description": "talisman but compatible by default for most mods",
@@ -3158,6 +3644,44 @@
     "stars": 4,
     "repo_id": 1020493116,
     "github_repo_url": "https://github.com/ABuffZucchini/Greener-Jokers"
+  },
+  {
+    "name": "Joshi's Decks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Joshi",
+    "downloadURL": "https://github.com/joshi-13/Joshi-sDecks/archive/refs/heads/main.zip",
+    "folderName": "Joshi@Joshis-Decks",
+    "version": "962f928",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/91480405?v=4",
+    "description": "Some decks ",
+    "stars": 0,
+    "repo_id": 1265700223,
+    "github_repo_url": "https://github.com/joshi-13/Joshi-sDecks"
+  },
+  {
+    "name": "Balatromodded",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Quality of Life",
+      "Technical",
+      "API"
+    ],
+    "author": "pawPatoes",
+    "downloadURL": "https://github.com/pawPatoes/Balatromodded/releases/latest/download/Balatromodded.zip",
+    "folderName": "Balatromodded",
+    "version": "0.1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "ALPHA!!! Adds features into Steamodded to make your life easier",
+    "stars": 1,
+    "repo_id": 1222579247,
+    "github_repo_url": "https://github.com/pawPatoes/Balatromodded"
   },
   {
     "name": "Cold Beans",
@@ -3423,6 +3947,25 @@
     "github_repo_url": "https://github.com/ItsaMicrowave/Horizon-Mod"
   },
   {
+    "name": "House of Hearts",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Balatro University Community",
+    "downloadURL": "https://github.com/PLagger7/House-of-Hearts/archive/refs/tags/v1.8.1.zip",
+    "folderName": "House-of-Hearts",
+    "version": "v1.8.1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/109414349?v=4",
+    "description": null,
+    "stars": 3,
+    "repo_id": 1233813735,
+    "github_repo_url": "https://github.com/PLagger7/House-of-Hearts"
+  },
+  {
     "name": "Israeli Streamer Mod",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -3528,6 +4071,25 @@
     "github_repo_url": "https://github.com/MamiKeRiko/luckylegends"
   },
   {
+    "name": "Rebalatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "LilacLilo",
+    "downloadURL": "https://github.com/lilaclila/Rebalatro/archive/refs/heads/main.zip",
+    "folderName": "LilacLilo@Rebalatro",
+    "version": "c651791",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/257009167?v=4",
+    "description": "A mod for Balatro, made with the intention of improving the balance of the base game, with localthunk's design philosophy in mind.",
+    "stars": 1,
+    "repo_id": 1276174125,
+    "github_repo_url": "https://github.com/lilaclila/Rebalatro/tree/main"
+  },
+  {
     "name": "re:Unlock All",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -3615,7 +4177,7 @@
     "author": "George The Rat",
     "downloadURL": "https://github.com/GeorgeTheRat/BundlesOfFun/archive/refs/heads/main.zip",
     "folderName": "George-The-Rat@Bundles-Of-Fun",
-    "version": "859adf4",
+    "version": "8aa2c57",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/226023234?v=4",
     "description": null,
@@ -3733,6 +4295,24 @@
     "github_repo_url": "https://github.com/survovoaneend/All-In-Jest"
   },
   {
+    "name": "JokerFilter",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life"
+    ],
+    "author": "BigRed",
+    "downloadURL": "https://github.com/spadesmaster/BalatroJokerFilter/releases/latest/download/BalatroJokerFilter.zip",
+    "folderName": "BigRed@JokerFilter",
+    "version": "beta",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/572960?v=4",
+    "description": "Manage large Joker piles by hiding Jokers of a specific type",
+    "stars": 1,
+    "repo_id": 1203164941,
+    "github_repo_url": "https://github.com/spadesmaster/BalatroJokerFilter"
+  },
+  {
     "name": "Karambit Blue Gem",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -3785,6 +4365,25 @@
     "stars": 0,
     "repo_id": 822120466,
     "github_repo_url": "https://github.com/ShenanigansBunul/balatro-shenanigans-decks"
+  },
+  {
+    "name": "Balatro: Blindside",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "Luna, Anne, and Base",
+    "downloadURL": "https://github.com/LunaAstraCassiopeia/Blindside/archive/refs/heads/main.zip",
+    "folderName": "Blindside",
+    "version": "2bc1d39",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/63694794?v=4",
+    "description": "Blindside",
+    "stars": 10,
+    "repo_id": 1102144374,
+    "github_repo_url": "https://github.com/LunaAstraCassiopeia/Blindside"
   },
   {
     "name": "Glowypumpkin Community Deck",
@@ -3860,6 +4459,25 @@
     "github_repo_url": "https://github.com/JosephPB0909/CuriLatro"
   },
   {
+    "name": "Manifold",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "ouiiskey",
+    "downloadURL": "https://github.com/ouiiskey/Manifold/releases/latest/download/Manifold.zip",
+    "folderName": "ouiiskey@Manifold",
+    "version": "v1.1.4",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/118245217?v=4",
+    "description": "A Balatro mod.",
+    "stars": 0,
+    "repo_id": 968910222,
+    "github_repo_url": "https://github.com/ouiiskey/Manifold"
+  },
+  {
     "name": "Blueprint",
     "requires-steamodded": false,
     "requires-talisman": false,
@@ -3873,7 +4491,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/83234016?v=4",
     "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
-    "stars": 63,
+    "stars": 64,
     "repo_id": 862946710,
     "github_repo_url": "https://github.com/stupxd/Blueprint"
   },
@@ -4009,6 +4627,24 @@
     "github_repo_url": "https://github.com/icyethics/Glue-For-Modpacks"
   },
   {
+    "name": "Vega's Stuff",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "Vega",
+    "downloadURL": "https://github.com/VegaTheAvali/Vega-s-Stuff/archive/refs/heads/master.zip",
+    "folderName": "vegasstuff",
+    "version": "02f24b4",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/204115095?v=4",
+    "description": "A Balatro content mod that adds a few unique features and whatnot to the game!",
+    "stars": 0,
+    "repo_id": 1208954516,
+    "github_repo_url": "https://github.com/VegaTheAvali/Vega-s-Stuff"
+  },
+  {
     "name": "LushMod",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -4063,6 +4699,26 @@
     "stars": 4,
     "repo_id": 949384452,
     "github_repo_url": "https://github.com/Breezebuilder/DismissAlert"
+  },
+  {
+    "name": "CGNik's Balatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "CGNik",
+    "downloadURL": "https://github.com/CG-Nik/CGNiksBalatro/archive/refs/heads/main.zip",
+    "folderName": "CGNiksBalatro",
+    "version": "342fc00",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/76545649?v=4",
+    "description": "A Balatro mod that adds a variety of random content.",
+    "stars": 0,
+    "repo_id": 1255666686,
+    "github_repo_url": "https://github.com/CG-Nik/CGNiksBalatro"
   },
   {
     "name": "Baldatro",
@@ -4286,6 +4942,25 @@
     "github_repo_url": "https://github.com/Cybernetic2884/PooPooFart"
   },
   {
+    "name": "Digital Circus Cards",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Resource Packs"
+    ],
+    "author": "Henry Aest",
+    "downloadURL": "https://github.com/henryArst/Digital-Circus-Balatro/releases/download/files/Digital.Cards.zip",
+    "folderName": "Henry-Aest@Digital-Circus-Cards",
+    "version": "20260521_153620",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/286174717?v=4",
+    "description": null,
+    "stars": 0,
+    "repo_id": 1245754939,
+    "github_repo_url": "https://github.com/henryArst/Digital-Circus-Balatro/"
+  },
+  {
     "name": "Flushtro",
     "requires-steamodded": true,
     "requires-talisman": true,
@@ -4322,6 +4997,44 @@
     "github_repo_url": "https://github.com/cg-223/Joker-Loadouts"
   },
   {
+    "name": "Ena Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "PixelLello",
+    "downloadURL": "https://github.com/PixelLello/Ena-Deck/archive/refs/heads/main.zip",
+    "folderName": "EnaDeck",
+    "version": "b4e9380",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/208188761?v=4",
+    "description": "This Mod for Balatro Add Characters from the ENA series by Joel G",
+    "stars": 0,
+    "repo_id": 1267570265,
+    "github_repo_url": "https://github.com/PixelLello/Ena-Deck/blob/4d5733135bfbd7de17d35afd50e51685d98012e0/EnaDeck.zip"
+  },
+  {
+    "name": "Jonahtro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "probablyJonah",
+    "downloadURL": "https://github.com/JonahFicklin/Jonahtro/releases/download/Jonahtro_New_Version/Jonahtro_v1.0.0.zip",
+    "folderName": "Jonahtro_v1.0.0",
+    "version": "20260212_222140",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/156721503?v=4",
+    "description": "This is a balatro mod I made that adds 2 custom jokers, 1 custom spectral card, and 5 custom playing cards",
+    "stars": 0,
+    "repo_id": 1156646550,
+    "github_repo_url": "https://github.com/JonahFicklin/Jonahtro"
+  },
+  {
     "name": "Yippie",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -4339,6 +5052,27 @@
     "stars": 1,
     "repo_id": 940277990,
     "github_repo_url": "https://github.com/Coo29/YippieMod"
+  },
+  {
+    "name": "Paw's Shenanigans",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker",
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "pawPatoes",
+    "downloadURL": "https://github.com/pawPatoes/paw-s-shenanigans/releases/latest/download/paw.s.UNLOCKED.zip",
+    "folderName": "paw's",
+    "version": "2.4.2",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "A balatro mod that adds the worst ideas into balatro cuz why not :D You can report bugs in https://forms.gle/nCVhj3w43pG9QcTV9",
+    "stars": 0,
+    "repo_id": 1199691141,
+    "github_repo_url": "https://github.com/pawPatoes/paw-s-Shenanigans"
   },
   {
     "name": "Entropy",
@@ -4671,6 +5405,25 @@
     "github_repo_url": "https://github.com/DigitalDetective47/suit-order"
   },
   {
+    "name": "LeviathanMod",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "TheDoctor6615",
+    "downloadURL": "https://github.com/HotChrissBuns/LeviathanMod/archive/refs/heads/main.zip",
+    "folderName": "TheDoctor6615@LeviathanMod",
+    "version": "4db0d52",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110165703?v=4",
+    "description": "Balatro Leviathan Mod",
+    "stars": 0,
+    "repo_id": 1261544409,
+    "github_repo_url": "https://github.com/HotChrissBuns/LeviathanMod"
+  },
+  {
     "name": "Multi Jokers",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -4932,6 +5685,44 @@
     "github_repo_url": "https://github.com/Somethingcom515/SealsOnJokers"
   },
   {
+    "name": "Aura",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Resource Packs",
+      "API"
+    ],
+    "author": "MRTorres",
+    "downloadURL": "https://github.com/SpectralPack/Aura/archive/refs/heads/main.zip",
+    "folderName": "MRTorres@Aura",
+    "version": "c14b099",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/200283053?v=4",
+    "description": "Adds animations to Balatro Jokers",
+    "stars": 41,
+    "repo_id": 812859470,
+    "github_repo_url": "https://github.com/SpectralPack/Aura"
+  },
+  {
+    "name": "Hot Potato",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "The Potato Patch Events Group",
+    "downloadURL": "https://github.com/Balatro-Potato-Patch/Hot-Potato/archive/refs/tags/v1.0.12b.zip",
+    "folderName": "Balatro-Potato-Patch@HotPotato",
+    "version": "v1.0.12b",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
+    "description": "Mod Developer Chaos",
+    "stars": 61,
+    "repo_id": 1025716679,
+    "github_repo_url": "https://github.com/Balatro-Potato-Patch/Hot-Potato"
+  },
+  {
     "name": "Black Seal",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -4967,6 +5758,24 @@
     "stars": 145,
     "repo_id": 802691875,
     "github_repo_url": "https://github.com/nh6574/JokerDisplay"
+  },
+  {
+    "name": "Noita Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "JEIPEY",
+    "downloadURL": "https://github.com/JEIPEY/Noita-Deck-Balatro-mod-/releases/latest/download/NoitaDeckBalatroMod.zip",
+    "folderName": "NoitaDeck",
+    "version": "v1.0.0",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/110669402?v=4",
+    "description": "Replaces default face cards King, Queen, Jack, to Noita creatures.",
+    "stars": 0,
+    "repo_id": 1215318110,
+    "github_repo_url": "https://github.com/JEIPEY/Noita-Deck-Balatro-mod-"
   },
   {
     "name": "Arashicoolstuff",
@@ -5022,6 +5831,25 @@
     "stars": 1,
     "repo_id": 1153101535,
     "github_repo_url": "https://github.com/InkyEnby/InkySuitSkins"
+  },
+  {
+    "name": "Shop Undo",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Miscellaneous"
+    ],
+    "author": "swagdoe",
+    "downloadURL": "https://github.com/poqoida/balatro-shop-undo/releases/download/1.0.0/balatro-shop-undo.zip",
+    "folderName": "swagdoe@Shop-Undo",
+    "version": "20260625_054735",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/198234015?v=4",
+    "description": "A balatro mod that adds undo function for shop rerolls.",
+    "stars": 0,
+    "repo_id": 1279910509,
+    "github_repo_url": "https://github.com/poqoida/balatro-shop-undo"
   },
   {
     "name": "Justice",
@@ -5173,7 +6001,7 @@
     "github_repo_url": "https://github.com/InertSteak/Jimbos-Histories-InertSteak/tree/main"
   },
   {
-    "name": "KHJokers",
+    "name": "Final Mix",
     "requires-steamodded": true,
     "requires-talisman": false,
     "categories": [
@@ -5181,7 +6009,7 @@
       "Joker"
     ],
     "author": "cloudzXIII",
-    "downloadURL": "https://github.com/cloudzXIII/KHJokers/releases/latest/download/KHJokers.zip",
+    "downloadURL": "https://github.com/cloudzXIII/FinalMix/releases/latest/download/FinalMix.zip",
     "folderName": "cloudzXIII@KHJokers",
     "version": "v1.1.4",
     "automatic-version-check": true,
@@ -5189,7 +6017,7 @@
     "description": "Kingdom Hearts Themed Content Mod",
     "stars": 3,
     "repo_id": 939649722,
-    "github_repo_url": "https://github.com/cloudzXIII/KHJokers"
+    "github_repo_url": "https://github.com/cloudzXIII/FinalMix"
   },
   {
     "name": "Bloonlatro",
@@ -5283,6 +6111,26 @@
     "github_repo_url": "https://github.com/Mysthaps/LobotomyCorp"
   },
   {
+    "name": "Balatro: House Rules",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "M0NAKR0ME",
+    "downloadURL": "https://github.com/MrThumble/Balatro-House-Rules/releases/download/main-mod/houserules.7z",
+    "folderName": "House Rules",
+    "version": "20260622_152404",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/176694330?v=4",
+    "description": "This ain't your grandpappys Balatro. Its worse  -182 New Jokers  -20 New Consumables  -12 New Enhancements  -3 New Seals  -4 New Vouchers  -2 New editions  -A Whole lot of Chaos  - Extra Music  This has been made JokerForge, so do expect bugs  Try & find each reference",
+    "stars": 0,
+    "repo_id": 1277078818,
+    "github_repo_url": "https://github.com/MrThumble/Balatro-House-Rules"
+  },
+  {
     "name": "pixelperfect",
     "requires-steamodded": true,
     "requires-talisman": true,
@@ -5359,6 +6207,24 @@
     "github_repo_url": "https://github.com/GunnableScum/Visibility"
   },
   {
+    "name": "Potato Patch Utils",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "API"
+    ],
+    "author": "The Potato Patch Events Group",
+    "downloadURL": "https://github.com/Balatro-Potato-Patch/Potato-Patch-Utils/archive/refs/tags/v1.0.11b.zip",
+    "folderName": "Balatro-Potato-Patch@PotatoPatchUtils",
+    "version": "v1.0.11b",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/242098077?v=4",
+    "description": "A util library for mods created by the Potato Patch",
+    "stars": 6,
+    "repo_id": 1132516359,
+    "github_repo_url": "https://github.com/Balatro-Potato-Patch/Potato-Patch-Utils"
+  },
+  {
     "name": "Tangents",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -5377,6 +6243,25 @@
     "stars": 5,
     "repo_id": 1017847972,
     "github_repo_url": "https://github.com/Clickseee/Tangents"
+  },
+  {
+    "name": "Acepack",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "ebicthings",
+    "downloadURL": "https://github.com/6543ozne/Acepack_new/releases/download/release/Acepack_v1.0.2.zip",
+    "folderName": "ebicthings@Acepack",
+    "version": "20260608_072615",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/105403431?v=4",
+    "description": null,
+    "stars": 0,
+    "repo_id": 1057635076,
+    "github_repo_url": "https://github.com/6543ozne/Acepack_new"
   },
   {
     "name": "Flower Pot",
@@ -5434,6 +6319,26 @@
     "github_repo_url": "https://github.com/balt-dev/Madness"
   },
   {
+    "name": "Mayhem",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker",
+      "Technical"
+    ],
+    "author": "alex343xd",
+    "downloadURL": "https://github.com/pawPatoes/Mayhem/archive/refs/heads/main.zip",
+    "folderName": "mayhem",
+    "version": "8d6250b",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "NOT MY MOD! Original mod found in codeberg!",
+    "stars": 0,
+    "repo_id": 1255136266,
+    "github_repo_url": "https://github.com/pawPatoes/Mayhem"
+  },
+  {
     "name": "AdventureTro",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -5451,6 +6356,42 @@
     "stars": 0,
     "repo_id": 1146335451,
     "github_repo_url": "https://github.com/RAYTRAC3R/AdventureTro/"
+  },
+  {
+    "name": "OneShot deck skins",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Resource Packs"
+    ],
+    "author": "Pyromantis",
+    "downloadURL": "https://github.com/Pyromantis/OneShot-X-Balatro/releases/latest/download/OneShot.X.Balatro.zip",
+    "folderName": "OneShotDeckSkins",
+    "version": "1.0.1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/205405485?v=4",
+    "description": "Adds deck skins to Balatro featuring characters from game OneShot",
+    "stars": 0,
+    "repo_id": 1269246159,
+    "github_repo_url": "https://github.com/Pyromantis/OneShot-X-Balatro"
+  },
+  {
+    "name": "imbored",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content"
+    ],
+    "author": "unfancy",
+    "downloadURL": "https://github.com/unfanciousthewizard/imbored-balatro/archive/refs/heads/main.zip",
+    "folderName": "imbored",
+    "version": "a856ad9",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/252385463?v=4",
+    "description": "the balala mod that is possible to describe but i dont want to",
+    "stars": 0,
+    "repo_id": 1126016393,
+    "github_repo_url": "https://github.com/unfanciousthewizard/imbored-balatro/"
   },
   {
     "name": "Ink And Color Suits",
@@ -5545,6 +6486,25 @@
     "github_repo_url": "https://github.com/Fantom-Balatro/Fantoms-Preview"
   },
   {
+    "name": "ELWatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "mine4114",
+    "downloadURL": "https://github.com/Mine4114/ELWatro/releases/latest/download/elwatro.zip",
+    "folderName": "mine4114@ELWatro",
+    "version": "1.2.2",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/97413566?v=4",
+    "description": "Mod for Balatro adding jokers and cards inspired by the Exploring Lost WADs webseries.",
+    "stars": 0,
+    "repo_id": 1249436502,
+    "github_repo_url": "https://github.com/Mine4114/ELWatro"
+  },
+  {
     "name": "GemSteel Texture",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -5556,6 +6516,46 @@
     "folderName": "Newcat07@GemSteelTextures",
     "version": "134b9d1",
     "automatic-version-check": true
+  },
+  {
+    "name": "Bad Director",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Technical",
+      "Miscellaneous"
+    ],
+    "author": "Nxkoo",
+    "downloadURL": "https://github.com/Clickseee/BadDirector/archive/refs/heads/main.zip",
+    "folderName": "Nxkoo@BadDirector",
+    "version": "77625e1",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/84652396?v=4",
+    "description": "It's THE Balatro Mod of All-time",
+    "stars": 12,
+    "repo_id": 1251808054,
+    "github_repo_url": "https://github.com/Clickseee/BadDirector"
+  },
+  {
+    "name": "Roze's Jokers",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "pawPatoes",
+    "downloadURL": "https://github.com/pawPatoes/Baltroze-s-Jokers/releases/latest/download/Rozes.jokers.zip",
+    "folderName": "roze",
+    "version": "1.0",
+    "automatic-version-check": false,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/264230241?v=4",
+    "description": "Adds 9 out of the 10 jokers in balatroze's video, https://www.youtube.com/watch?v=RNyTD6JHen4",
+    "stars": 0,
+    "repo_id": 1223737221,
+    "github_repo_url": "https://github.com/pawPatoes/Baltroze-s-Jokers"
   },
   {
     "name": "Phanta",
@@ -5678,7 +6678,7 @@
     "author": "Eternalnacho",
     "downloadURL": "https://github.com/Eternalnacho/NachosPokermonDip/archive/refs/heads/main.zip",
     "folderName": "NachosPokermonDip",
-    "version": "98b0ebe",
+    "version": "36aac2b",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/216990067?v=4",
     "description": "This is an add-on mod for Pokermon - an add-on mod for Balatro.",
@@ -5688,7 +6688,7 @@
   },
   {
     "name": "Vietnamese Balatro",
-    "requires-steamodded": true,
+    "requires-steamodded": false,
     "requires-talisman": false,
     "categories": [
       "Miscellaneous"
@@ -5724,6 +6724,26 @@
     "github_repo_url": "https://github.com/Maelmc/The-Binding-of-Jimbo"
   },
   {
+    "name": "Bananatro",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker",
+      "Quality of Life"
+    ],
+    "author": "thiagolela7",
+    "downloadURL": "https://github.com/trigalela777-beep/Bananatro/releases/download/1.3.0/Bananatro.zip",
+    "folderName": "thiagolela7@Bananatro",
+    "version": "20260607_010549",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/285841182?v=4",
+    "description": "Uninstall Balatro Now...",
+    "stars": 0,
+    "repo_id": 1242970819,
+    "github_repo_url": "https://github.com/trigalela777-beep/Bananatro"
+  },
+  {
     "name": "Smallpox",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -5738,7 +6758,7 @@
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/237338012?v=4",
     "description": "A collaborative Balatro mod where everyone adds one Joker!",
-    "stars": 5,
+    "stars": 4,
     "repo_id": 1146789975,
     "github_repo_url": "https://github.com/PlasmaPhrase/Smallpox"
   },
@@ -5904,6 +6924,25 @@
     "github_repo_url": "https://github.com/thefaketh30ne/grab-bag"
   },
   {
+    "name": "JJK Curses Deck",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Content",
+      "Joker"
+    ],
+    "author": "yvarrsrwra",
+    "downloadURL": "https://github.com/yvarrsrwra/jjk-cursed-deck/archive/refs/heads/main.zip",
+    "folderName": "jjk-cursed-deck",
+    "version": "231da50",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/210497948?v=4",
+    "description": "rwar rawr bawr",
+    "stars": 0,
+    "repo_id": 1255920240,
+    "github_repo_url": "https://github.com/yvarrsrwra/jjk-cursed-deck"
+  },
+  {
     "name": "Espalatro",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -6034,6 +7073,26 @@
     "github_repo_url": "https://github.com/GauntletGames-2086/D6-Jokers"
   },
   {
+    "name": "Fabulous Beasts",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+    "categories": [
+      "Content",
+      "Joker",
+      "Miscellaneous"
+    ],
+    "author": "Zinaida",
+    "downloadURL": "https://github.com/yinzhi24/FabulousBeasts/releases/download/v0.3.0-alpha/FabulousBeasts.tar",
+    "folderName": "Zinaida@Fabulous-Beasts",
+    "version": "20260610_000824",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/69948276?v=4",
+    "description": "A Balatro mod based on Fabulous Beasts and some Chinese internet culture and mythology!",
+    "stars": 0,
+    "repo_id": 1249600054,
+    "github_repo_url": "https://github.com/yinzhi24/FabulousBeasts"
+  },
+  {
     "name": "Dream BBQ",
     "requires-steamodded": true,
     "requires-talisman": false,
@@ -6053,7 +7112,7 @@
     "github_repo_url": "https://github.com/Noodlemire/Balatro-Dream-BBQ-Mod"
   },
   {
-    "name": "Pokermon+",
+    "name": "PokermonPlus",
     "requires-steamodded": true,
     "requires-talisman": false,
     "categories": [
@@ -6063,7 +7122,7 @@
     "author": "Sonfive",
     "downloadURL": "https://github.com/SonfiveTV/PokermonPlus/archive/refs/heads/main.zip",
     "folderName": "PokermonPlus",
-    "version": "b3d0167",
+    "version": "fb10212",
     "automatic-version-check": true,
     "author_avatar_url": "https://avatars.githubusercontent.com/u/195581178?v=4",
     "description": "This is an add-on mod for Pokermon, an add-on mod for Balatro",
@@ -6329,6 +7388,26 @@
     "stars": 1,
     "repo_id": 1017522439,
     "github_repo_url": "https://github.com/YUORKI/Fazbears-Video-Poker-Simulator"
+  },
+  {
+    "name": "Taoist Talismans",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": [
+      "Quality of Life",
+      "Technical",
+      "API"
+    ],
+    "author": "Zinaida",
+    "downloadURL": "https://github.com/yinzhi24/TaoistTalismans/archive/refs/heads/main.zip",
+    "folderName": "Zinaida@Taoist-Talismans",
+    "version": "f89963f",
+    "automatic-version-check": true,
+    "author_avatar_url": "https://avatars.githubusercontent.com/u/69948276?v=4",
+    "description": "A content expansion mod for Balatro that introduces Talismans, a new card modifier system that occupies the Seal slot and acts as a second enhancement for cards. Same enhancements will result in a powerful stacked effect!",
+    "stars": 0,
+    "repo_id": 1278630929,
+    "github_repo_url": "https://github.com/yinzhi24/TaoistTalismans"
   },
   {
     "name": "Epic Jokers",
